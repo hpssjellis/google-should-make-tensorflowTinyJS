@@ -125,6 +125,9 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Se
 
 This innovative approach builds on the success of TensorFlow.js, which democratized machine learning (ML) by bringing it to the web. With the expected exponential growth in ML-capable microcontrollers, developing TensorFlowTinyJS could be both timely and transformative, enabling a new era of accessible and efficient ML applications.
 
+<img src="https://user-images.githubusercontent.com/5605614/175780835-2b0d64a4-0ba8-4c90-9f05-fb4e89cd6980.png" width=700 />
+
+[https://github.com/hpssjellis](https://github.com/hpssjellis)
 
 <hr>
 
@@ -132,19 +135,9 @@ This innovative approach builds on the success of TensorFlow.js, which democrati
 #### 2
 
 
-Show how to do images and links. Note: To get the url just paste an image right here
+### Pros of TensorFlowTinyJS for Local Use (1/2)
 
-<img src="https://user-images.githubusercontent.com/5605614/175780835-2b0d64a4-0ba8-4c90-9f05-fb4e89cd6980.png" width=700 />
-
-[https://github.com/hpssjellis](https://github.com/hpssjellis)
-
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<hr>
-
-
-#### 3
-### Pros of TensorFlowTinyJS for Local Use
-Accessibility:
+## Accessibility:
 No Installation Requirements: Unlike C++ or Python, TensorFlowTinyJS can run directly in the browser without additional installations.
 Ease of Use: Simplifies the development process, making it accessible to a broader audience, including those with limited technical expertise.
 
@@ -158,6 +151,11 @@ Privacy: Sensitive data remains on the device, reducing the risk of data breache
 Field Work: Enables ML tasks to be performed in the field without requiring an internet connection, which is crucial for remote or mobile applications.
 Reliability: Ensures that ML applications can function even in areas with poor or no connectivity.
 
+<hr>
+
+
+#### 3
+### Pros of TensorFlowTinyJS for Local Use (2/2)
 
 ## Resource Efficiency:
 Optimized for Constraints: Only a fraction of TensorFlow’s capabilities are needed, focusing on lightweight models suitable for microcontrollers.
@@ -173,7 +171,7 @@ Open Source: Leveraging open-source technologies can reduce costs and encourage 
 
 #### 4
 
-### Cons of TensorFlowTinyJS for Local Use
+### Cons of TensorFlowTinyJS for Local Use (1/2)
 
 ## Performance Limitations:
 Processing Power: Microcontrollers have limited processing power, which can restrict the complexity of models that can be run locally.
@@ -182,6 +180,15 @@ Memory and Storage: Limited memory and storage capacity can constrain the size a
 ## Complexity in Implementation:
 Integration Challenges: Ensuring seamless integration between WebSerial and various microcontrollers can be complex.
 Browser Compatibility: Ensuring consistent performance across different browsers can be challenging.
+
+
+
+<hr>
+
+#### 5
+
+### Cons of TensorFlowTinyJS for Local Use (2/2)
+
 
 ## Security Concerns:
 Local Vulnerabilities: While data security is enhanced by local execution, the device itself must be secured against physical tampering and local attacks.
@@ -192,9 +199,11 @@ Model Optimization: Requires significant effort to optimize models for the limit
 
 <hr>
 
-#### 5
 
-### Difficult Steps in Developing TensorFlowTinyJS
+
+#### 6
+
+### Difficult Steps in Developing TensorFlowTinyJS (1/2)
 
 ## Framework Development:
 Creating a Lightweight ML Library: Developing a version of TensorFlow that is optimized for microcontrollers.
@@ -203,6 +212,12 @@ WebSerial Integration: Ensuring reliable communication between the browser and m
 ## Model Optimization:
 Quantization and Pruning: Techniques to reduce model size and improve performance on microcontrollers.
 Efficient Algorithms: Developing algorithms that can run efficiently on limited hardware.
+
+<hr>
+
+#### 7
+
+### Difficult Steps in Developing TensorFlowTinyJS (2/2)
 
 ## Security Measures:
 Data Encryption: Implementing robust encryption methods to protect data.
@@ -213,18 +228,6 @@ Cross-Platform Testing: Ensuring the framework works seamlessly across different
 Hardware Compatibility: Testing with a wide range of microcontrollers to ensure compatibility and performance.
 
 
-<hr>
-
-#### 6
-
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<hr>
-
-#### 7
-
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <hr>
 
 #### 8
