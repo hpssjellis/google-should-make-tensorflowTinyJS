@@ -9,7 +9,7 @@ Fork this repo, fill in your markdown and <html> for the 15 slides (max 20 slide
 Demo of this Github Markdown can be viewed at this GitPages site  [https://hpssjellis.github.io/javascript-on-markdown/](https://hpssjellis.github.io/google-should-make-tensorflowTinyJS//)
 
 
-This Github Repository (replace this link with your Repository Link) [https://github.com/hpssjellis/google-should-make-tensorflowTinyJS](https://github.com/hpssjellis/google-should-make-tensorflowTinyJS)
+This Github Repository [https://github.com/hpssjellis/google-should-make-tensorflowTinyJS](https://github.com/hpssjellis/google-should-make-tensorflowTinyJS)
 
 
 Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Seconds per Slide: <input type="text" id="myCountMax" size="6" value="20" >
@@ -293,9 +293,10 @@ Developing TensorFlowTinyJS for local use on microcontrollers could democratize 
 
 
 
-### By Jeremy Ellis Twitter @Rocksetta Use at your own Risk!
-### Note when looking at the markdown none of the javascript buttons appear, you must go to your Gitpages Demo Link!
-A few Javascript abilites do not work, such as hiding the code. So all the Javascript not in buttons is below. 
+### By Jeremy Ellis Twitter <a href="https://ca.linkedin.com/in/jeremy-ellis-4237a9bb">jeremy-ellis-4237a9bb</a> Use at your own Risk!
+### Note the github for this page, with markdown and javascript is at [https://github.com/hpssjellis/google-should-make-tensorflowTinyJS](https://github.com/hpssjellis/google-should-make-tensorflowTinyJS) 
+
+A blank template repository for you to make your own presentations is at [https://github.com/hpssjellis/pecha-kucha-lightning-talks-template](https://github.com/hpssjellis/pecha-kucha-lightning-talks-template)
 
 
 
