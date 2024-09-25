@@ -119,11 +119,11 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Se
  </div>
 
 #### 1 
-### Why Google Should Develop TensorFlowTinyJS for Microcontrollers
+### Should Google Develop TensorFlowTinyJS for Microcontrollers?
 
 ## TensorFlowTinyJS has the potential to revolutionize the way microcontrollers interact with web pages via WebSerial, allowing for seamless training and deployment directly within the browser. 
 
-This innovative approach builds on the success of TensorFlow.js, which democratized machine learning (ML) by bringing it to the web. With the expected exponential growth in ML-capable microcontrollers, developing TensorFlowTinyJS could be both timely and transformative, enabling a new era of accessible and efficient ML applications.
+This innovative approach builds on the success of TensorFlow.js, which democratized machine learning (ML) by bringing it to the web. With the expected exponential growth in inexpensive ML-capable microcontrollers, developing TensorFlowTinyJS could be both timely and transformative, enabling a new era of accessible and efficient ML applications.
 
 <img src="https://user-images.githubusercontent.com/5605614/175780835-2b0d64a4-0ba8-4c90-9f05-fb4e89cd6980.png" width=700 />
 
@@ -138,18 +138,20 @@ This innovative approach builds on the success of TensorFlow.js, which democrati
 ### Pros of TensorFlowTinyJS for Local Use (1/2)
 
 ## Accessibility:
-No Installation Requirements: Unlike C++ or Python, TensorFlowTinyJS can run directly in the browser without additional installations.
+No Installation Requirements: Unlike C++ or Python, TensorFlowTinyJS could run directly in the browser without additional installations.
 Ease of Use: Simplifies the development process, making it accessible to a broader audience, including those with limited technical expertise.
 
 
 ## Data Security:
-Local Execution: Running models locally ensures complete data security, as no data needs to be transmitted over the internet.
-Privacy: Sensitive data remains on the device, reducing the risk of data breaches.
+Local Execution: Training models locally ensures complete data security, as no data needs to be transmitted over the internet.
+Privacy: Sensitive data remains on the local computer, reducing the risk of data breaches. The trained ML model is flashed to the microcontroller but typically  does not contain the personal
+information of the training data.
 
 
 ## Offline Capability:
 Field Work: Enables ML tasks to be performed in the field without requiring an internet connection, which is crucial for remote or mobile applications.
-Reliability: Ensures that ML applications can function even in areas with poor or no connectivity.
+
+## Reliability: Ensures that ML applications and training can function even in areas with poor or no connectivity.
 
 <hr>
 
@@ -159,12 +161,19 @@ Reliability: Ensures that ML applications can function even in areas with poor o
 
 ## Resource Efficiency:
 Optimized for Constraints: Only a fraction of TensorFlow’s capabilities are needed, focusing on lightweight models suitable for microcontrollers.
-Sensor Fusion: Many microcontroller applications, such as sensor fusion, do not require complex deep learning models, which can be handled server-side if necessary.
+
+## Sensor Fusion: Many microcontroller applications use modern or just developed new sensors, much sensor fusion ML does not require complex deep learning models. 
+Many microcontroller applications could be made using fairly simple dense layer deep learning models. Vision and sound typically need more complex models.
 
 
 ## Cost-Effective:
 Low-Cost Hardware: Utilizes inexpensive microcontrollers, making it a cost-effective solution for various applications.
-Open Source: Leveraging open-source technologies can reduce costs and encourage community contributions.
+
+
+## Open Source: Leveraging open-source technologies can reduce costs and encourage community contributions.
+
+## Low Energy: Many microcontroller machine learning models are trained to do simple functions that do not need energy expensive WiFi etc. 
+With lower energy battery consumption is reduced and the hardware can potentially work longer with minimal servicing.
 
 
 <hr>
@@ -191,11 +200,15 @@ Browser Compatibility: Ensuring consistent performance across different browsers
 
 
 ## Security Concerns:
-Local Vulnerabilities: While data security is enhanced by local execution, the device itself must be secured against physical tampering and local attacks.
+## Local Vulnerabilities: While data security is enhanced by local training execution, the microcontroller should be secured against physical tampering and local attacks. 
+Note: The ML model on a microcontroller typically does not contain the original training data
 
 ## Resource Constraints:
-Power Consumption: Running ML models can be power-intensive, which is a concern for battery-operated devices.
-Model Optimization: Requires significant effort to optimize models for the limited resources of microcontrollers.
+
+## Power Consumption: Running large ML models continuously can be power-intensive, which is a concern for battery-operated devices. 
+Note: many microcontroller run very low power and with smaller models can be made to run continuously with minimal power consupmtion
+
+## Model Optimization: Requires significant effort to optimize models for the limited resources of microcontrollers.
 
 <hr>
 
@@ -206,12 +219,15 @@ Model Optimization: Requires significant effort to optimize models for the limit
 ### Difficult Steps in Developing TensorFlowTinyJS (1/2)
 
 ## Framework Development:
-Creating a Lightweight ML Library: Developing a version of TensorFlow that is optimized for microcontrollers.
+
+## Creating a Lightweight ML Library: Developing a version of TensorFlow that is optimized for microcontrollers.
 WebSerial Integration: Ensuring reliable communication between the browser and microcontrollers via WebSerial.
 
 ## Model Optimization:
-Quantization and Pruning: Techniques to reduce model size and improve performance on microcontrollers.
-Efficient Algorithms: Developing algorithms that can run efficiently on limited hardware.
+
+## Quantization and Pruning: Techniques to reduce model size and improve performance on microcontrollers.
+
+## Efficient Algorithms: Developing algorithms that can run efficiently on limited hardware.
 
 <hr>
 
