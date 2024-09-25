@@ -151,7 +151,8 @@ information of the training data.
 ## Offline Capability:
 Field Work: Enables ML tasks to be performed in the field without requiring an internet connection, which is crucial for remote or mobile applications.
 
-## Reliability: Ensures that ML applications and training can function even in areas with poor or no connectivity.
+## Reliability: 
+Ensures that ML applications and training can function even in areas with poor or no connectivity.
 
 <hr>
 
@@ -162,7 +163,8 @@ Field Work: Enables ML tasks to be performed in the field without requiring an i
 ## Resource Efficiency:
 Optimized for Constraints: Only a fraction of TensorFlow’s capabilities are needed, focusing on lightweight models suitable for microcontrollers.
 
-## Sensor Fusion: Many microcontroller applications use modern or just developed new sensors, much sensor fusion ML does not require complex deep learning models. 
+## Sensor Fusion: 
+Many microcontroller applications use modern or just developed new sensors, much sensor fusion ML does not require complex deep learning models. 
 Many microcontroller applications could be made using fairly simple dense layer deep learning models. Vision and sound typically need more complex models.
 
 
@@ -170,9 +172,11 @@ Many microcontroller applications could be made using fairly simple dense layer 
 Low-Cost Hardware: Utilizes inexpensive microcontrollers, making it a cost-effective solution for various applications.
 
 
-## Open Source: Leveraging open-source technologies can reduce costs and encourage community contributions.
+## Open Source: 
+Leveraging open-source technologies can reduce costs and encourage community contributions.
 
-## Low Energy: Many microcontroller machine learning models are trained to do simple functions that do not need energy expensive WiFi etc. 
+## Low Energy: 
+Many microcontroller machine learning models are trained to do simple functions that do not need energy expensive WiFi etc. 
 With lower energy battery consumption is reduced and the hardware can potentially work longer with minimal servicing.
 
 
@@ -182,13 +186,19 @@ With lower energy battery consumption is reduced and the hardware can potentiall
 
 ### Cons of TensorFlowTinyJS for Local Use (1/2)
 
-## Performance Limitations:
-Processing Power: Microcontrollers have limited processing power, which can restrict the complexity of models that can be run locally.
-Memory and Storage: Limited memory and storage capacity can constrain the size and number of models.
+### Performance Limitations:
+## Processing Power: 
+Microcontrollers have limited processing power, which can restrict the complexity of models that can be run locally.
+
+## Memory and Storage: 
+Limited memory and storage capacity can constrain the size and number of models.
 
 ## Complexity in Implementation:
-Integration Challenges: Ensuring seamless integration between WebSerial and various microcontrollers can be complex.
-Browser Compatibility: Ensuring consistent performance across different browsers can be challenging.
+## Integration Challenges: 
+Ensuring seamless integration between WebSerial and various microcontrollers can be complex.
+
+## Browser Compatibility: 
+Ensuring consistent performance across different browsers can be challenging.
 
 
 
@@ -199,16 +209,20 @@ Browser Compatibility: Ensuring consistent performance across different browsers
 ### Cons of TensorFlowTinyJS for Local Use (2/2)
 
 
-## Security Concerns:
-## Local Vulnerabilities: While data security is enhanced by local training execution, the microcontroller should be secured against physical tampering and local attacks. 
+### Security Concerns:
+
+## Local Vulnerabilities: 
+While data security is enhanced by local training execution, the microcontroller should be secured against physical tampering and local attacks. 
 Note: The ML model on a microcontroller typically does not contain the original training data
 
-## Resource Constraints:
+### Resource Constraints:
 
-## Power Consumption: Running large ML models continuously can be power-intensive, which is a concern for battery-operated devices. 
-Note: many microcontroller run very low power and with smaller models can be made to run continuously with minimal power consupmtion
+## Power Consumption: 
+Running large ML models continuously can be power-intensive, which is a concern for battery-operated devices. 
+Note: many microcontrollers run very low power and with smaller models can be made to run continuously with minimal power consupmtion
 
-## Model Optimization: Requires significant effort to optimize models for the limited resources of microcontrollers.
+## Model Optimization: 
+Requires significant effort to optimize models for the limited resources of microcontrollers.
 
 <hr>
 
@@ -220,14 +234,17 @@ Note: many microcontroller run very low power and with smaller models can be mad
 
 ## Framework Development:
 
-## Creating a Lightweight ML Library: Developing a version of TensorFlow that is optimized for microcontrollers.
+## Creating a Lightweight ML Library: 
+Developing a version of TensorFlow that is optimized for microcontrollers.
 WebSerial Integration: Ensuring reliable communication between the browser and microcontrollers via WebSerial.
 
-## Model Optimization:
+### Model Optimization:
 
-## Quantization and Pruning: Techniques to reduce model size and improve performance on microcontrollers.
+## Quantization and Pruning: 
+Techniques to reduce model size and improve performance on microcontrollers.
 
-## Efficient Algorithms: Developing algorithms that can run efficiently on limited hardware.
+## Efficient Algorithms: 
+Developing algorithms that can run efficiently on limited hardware.
 
 <hr>
 
@@ -235,13 +252,21 @@ WebSerial Integration: Ensuring reliable communication between the browser and m
 
 ### Difficult Steps in Developing TensorFlowTinyJS (2/2)
 
-## Security Measures:
-Data Encryption: Implementing robust encryption methods to protect data.
-Secure Communication Protocols: Ensuring secure data transmission between the browser and microcontrollers.
+### Security Measures:
 
-## Testing and Debugging:
-Cross-Platform Testing: Ensuring the framework works seamlessly across different browsers and operating systems.
-Hardware Compatibility: Testing with a wide range of microcontrollers to ensure compatibility and performance.
+## Data Encryption: 
+Implementing robust encryption methods to protect data.
+
+## Secure Communication Protocols: 
+Ensuring secure data transmission between the browser and microcontrollers.
+
+### Testing and Debugging:
+
+## Cross-Platform Testing: 
+Ensuring the framework works seamlessly across different browsers and operating systems.
+
+## Hardware Compatibility: 
+Testing with a wide range of microcontrollers to ensure compatibility and performance.
 
 
 <hr>
@@ -249,42 +274,35 @@ Hardware Compatibility: Testing with a wide range of microcontrollers to ensure 
 #### 8
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <hr>
 
 #### 9
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <hr>
 
 #### 10
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <hr>
 
 #### 11
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <hr>
 
 #### 12
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <hr>
 
 #### 13
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <hr>
 
 #### 14
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <hr>
 
