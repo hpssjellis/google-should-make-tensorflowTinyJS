@@ -123,8 +123,7 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Se
 
 ## TensorFlowTinyJS could be a groundbreaking method to connect microcontrollers using WebSerial to web pages in the browser, enabling training and deployment directly from the browser. This approach mirrors the rationale behind the creation of TensorFlow.js, which brought machine learning (ML) capabilities to the web. Given the anticipated surge in microcontrollers with ML capabilities, this could be a timely and impactful development. 
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
 <hr>
 
 
@@ -167,8 +166,7 @@ Sensor Fusion: Many microcontroller applications, such as sensor fusion, do not 
 Low-Cost Hardware: Utilizes inexpensive microcontrollers, making it a cost-effective solution for various applications.
 Open Source: Leveraging open-source technologies can reduce costs and encourage community contributions.
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
 <hr>
 
 #### 4
@@ -190,8 +188,6 @@ Local Vulnerabilities: While data security is enhanced by local execution, the d
 Power Consumption: Running ML models can be power-intensive, which is a concern for battery-operated devices.
 Model Optimization: Requires significant effort to optimize models for the limited resources of microcontrollers.
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <hr>
 
 #### 5
@@ -214,8 +210,7 @@ Secure Communication Protocols: Ensuring secure data transmission between the br
 Cross-Platform Testing: Ensuring the framework works seamlessly across different browsers and operating systems.
 Hardware Compatibility: Testing with a wide range of microcontrollers to ensure compatibility and performance.
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
 <hr>
 
 #### 6
@@ -274,45 +269,10 @@ Hardware Compatibility: Testing with a wide range of microcontrollers to ensure 
 
 #### 15
 
-At 20 seconds per page and 15 slides this would be the end of a 5 min presentation
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<hr>
-
-#### 16
-
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<hr>
-
-#### 17
-
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<hr>
-
-#### 18
-
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<hr>
-
-#### 19
-
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<hr>
-
-#### 20
-
-## Conclusion
 
 Developing TensorFlowTinyJS for local use on microcontrollers could democratize ML, making it accessible and practical for a wide range of applications. While there are challenges, the benefits of local execution, data security, and offline capability make it a compelling endeavor. The anticipated growth in ML-capable microcontrollers underscores the importance of such a development.
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <hr>
-
 
 
 
