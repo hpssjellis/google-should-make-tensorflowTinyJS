@@ -121,7 +121,9 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Se
 #### 1 
 ### Why Google Should Develop TensorFlowTinyJS for Microcontrollers
 
-## TensorFlowTinyJS could be a groundbreaking method to connect microcontrollers using WebSerial to web pages in the browser, enabling training and deployment directly from the browser. This approach mirrors the rationale behind the creation of TensorFlow.js, which brought machine learning (ML) capabilities to the web. Given the anticipated surge in microcontrollers with ML capabilities, this could be a timely and impactful development. 
+## TensorFlowTinyJS has the potential to revolutionize the way microcontrollers interact with web pages via WebSerial, allowing for seamless training and deployment directly within the browser. 
+
+This innovative approach builds on the success of TensorFlow.js, which democratized machine learning (ML) by bringing it to the web. With the expected exponential growth in ML-capable microcontrollers, developing TensorFlowTinyJS could be both timely and transformative, enabling a new era of accessible and efficient ML applications.
 
 
 <hr>
