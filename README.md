@@ -125,11 +125,38 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Se
 
 This innovative approach builds on the success of TensorFlow.js, which democratized machine learning (ML) by bringing it to the web. With the expected exponential growth in inexpensive ML-capable microcontrollers, developing TensorFlowTinyJS could be both timely and transformative, enabling a new era of accessible and efficient ML applications.
 
-<img src="https://user-images.githubusercontent.com/5605614/175780835-2b0d64a4-0ba8-4c90-9f05-fb4e89cd6980.png" width=700 />
+<img src="https://github.com/user-attachments/assets/a641b911-2c7b-49c3-933a-07583006d1c9" width=700 />
 
-[https://github.com/hpssjellis](https://github.com/hpssjellis)
+
+My Github Profile [https://github.com/hpssjellis](https://github.com/hpssjellis)
 
 <hr>
+
+
+
+#### 2 
+### Who is Jeremy Ellis
+
+I have been making neural networks since the 1990's most of them did not work, I was really excited when Tensorflow was made public in 2015, I also followed the creation of deeplearn.js by Nikhil Thorat and Daniel Smilkov which became tensorflowJS in 2017. For vairous reasons I have always made single page web applications, with LLM's these pages are becoming very useful. About 6 years ago I spent a while making TensorflowJS examples in that style of minimum files.
+
+See this website at:
+[https://hpssjellis.github.io/beginner-tensorflowjs-examples-in-javascript/#tfjs-models](https://hpssjellis.github.io/beginner-tensorflowjs-examples-in-javascript/#tfjs-models)
+
+
+My Github Profile [https://github.com/hpssjellis](https://github.com/hpssjellis)
+
+<img src="https://github.com/user-attachments/assets/a641b911-2c7b-49c3-933a-07583006d1c9" width=700 />
+
+<hr>
+
+
+#### 2 
+### Why Microcontrollers
+
+After learning TensorflowJS I started teaching Robotics wishing to bring the simplicity of Javascript to Arduinos.
+
+<hr>
+
 
 
 #### 2
