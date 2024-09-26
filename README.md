@@ -6,7 +6,13 @@ Fork this repo, fill in your markdown and <html> for the 15 slides (max 20 slide
  
  Setup gitPages --> settings-->pages-->none to master-->save--> copy the link and replace below.
 
-Demo of this Github Markdown can be viewed at this GitPages site  [https://hpssjellis.github.io/javascript-on-markdown/](https://hpssjellis.github.io/google-should-make-tensorflowTinyJS//)
+Demo of this Github Markdown can be viewed at this GitPages websitesite  [https://hpssjellis.github.io/javascript-on-markdown/](https://hpssjellis.github.io/google-should-make-tensorflowTinyJS//)
+
+or use the QR code:<br>
+
+<img src="https://github.com/user-attachments/assets/ee407d91-f0cf-48f0-9abc-d9af472372f8" width=700 /><br>
+
+
 
 
 This Github Repository [https://github.com/hpssjellis/google-should-make-tensorflowTinyJS](https://github.com/hpssjellis/google-should-make-tensorflowTinyJS)
