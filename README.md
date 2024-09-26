@@ -142,7 +142,7 @@ In 2017, Google introduced TensorFlow.js, revolutionizing how machine learning c
 
 
 #### 3 
-### My Story (1/3)
+### My Story (2/3)
 
 <details closed> <summary>Script</summary>
 
@@ -154,7 +154,7 @@ However, I soon realized that microcontrollers were far less organized compared 
 
 
 #### 4 
-### my Story (2/3)
+### my Story (3/3)
 
 
 <details closed> <summary>Script</summary>
