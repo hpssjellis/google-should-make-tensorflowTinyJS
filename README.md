@@ -129,7 +129,11 @@ This innovative approach builds on the success of TensorFlow.js, which democrati
 
 
 My Github Profile [https://github.com/hpssjellis](https://github.com/hpssjellis)
+<details closed> <summary>Script</summary>
+In 2017 Google presented TensorflowJS making machine learning easier in web pages and I did a few year deep dive into learning everything I could about it and presenting it as easily as I could. After I was happy with that I emersed myself into microcontrollers like Arduinos and also made learning the more powerful ones that could do machine learning like the Arduino PortentaH7 and Nano33BleSense.<br>
 
+The problem is that microcontrollers are not as well organized as Tensorflow and TensorflowJS, everything is a bit more chaotic based entirely on how active the producing company is about the product you are working with and the supporting cloud providers they support. Microcontrollers don't have the strict version control that TensorflowJS can provide. Using raw GNU C++ is not very user friendly and microPython also has issues. 
+</details>
 <hr>
 
 
