@@ -195,7 +195,7 @@ After learning TensorflowJS I started teaching Robotics wishing to bring the sim
 #### 7
 
 
-### Pros of TensorFlowTinyJS for Local Client Side (1/2)
+### Pros of TensorFlowTinyJS for Local Client Side Applications (1/2)
 
 ## Accessibility:
 No Installation Requirements: Unlike C++ or Python, TensorFlowTinyJS could run directly in the browser without additional installations.
@@ -218,7 +218,7 @@ Ensures that ML applications and training can function even in areas with poor o
 
 
 #### 8
-### Pros of TensorFlowTinyJS for Local Use (2/2)
+### Pros of TensorFlowTinyJS for Local Client Side Applications (2/2)
 
 ## Resource Efficiency:
 Optimized for Constraints: Only a fraction of TensorFlow’s capabilities are needed, focusing on lightweight models suitable for microcontrollers.
@@ -244,7 +244,7 @@ With lower energy battery consumption is reduced and the hardware can potentiall
 
 #### 9
 
-### Cons of TensorFlowTinyJS for Local Use (1/2)
+### Cons of TensorFlowTinyJS for Local Client Side Applications  (1/2)
 
 ### Performance Limitations:
 ## Processing Power: 
@@ -266,7 +266,7 @@ Ensuring consistent performance across different browsers can be challenging.
 
 #### 10
 
-### Cons of TensorFlowTinyJS for Local Use (2/2)
+### Cons of TensorFlowTinyJS for Local Client Side Applications  (2/2)
 
 
 ### Security Concerns:
