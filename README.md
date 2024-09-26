@@ -10,7 +10,7 @@ Demo of this Github Markdown can be viewed at this GitPages websitesite  [https:
 
 or use the QR code:<br>
 
-<img src="https://github.com/user-attachments/assets/ee407d91-f0cf-48f0-9abc-d9af472372f8" width=700 /><br>
+<img src="https://github.com/user-attachments/assets/ee407d91-f0cf-48f0-9abc-d9af472372f8" width=300 /><br>
 
 
 
