@@ -137,11 +137,11 @@ The problem is that microcontrollers are not as well organized as Tensorflow and
 So I tried to combine TensorflowJS with WebSerial and machine learning training in the browser.<br><br><br>
 
 
-In 2017, Google introduced TensorFlow.js, revolutionizing how machine learning could be done directly in web pages. I was immediately drawn to its potential and spent the next few years diving deep into understanding and presenting it in a way that would make it accessible to others. Once I was satisfied with my mastery of TensorFlow.js, I shifted my focus to microcontrollers, particularly those capable of machine learning, such as the Arduino Portenta H7 and Nano 33 BLE Sense.
+In 2017, Google introduced TensorFlow.js, revolutionizing how machine learning could be done directly in web pages. I was immediately drawn to its potential and spent the next few years diving deep into understanding and presenting it in a way that would make it accessible to others. Once I was satisfied with my mastery of TensorFlow.js, I shifted my focus to microcontrollers, particularly those capable of machine learning, such as the Arduino Portenta H7 and Nano 33 BLE Sense.<br><br>
 
-However, I soon realized that microcontrollers were far less organized compared to the streamlined ecosystem of TensorFlow and TensorFlow.js. The landscape was more fragmented, with each microcontroller’s usability heavily influenced by how active its producing company and cloud support providers were. Unlike TensorFlow.js, where version control and updates are well-regulated, microcontroller development could be chaotic. Writing raw C++ code was cumbersome and not user-friendly, and even alternatives like MicroPython came with their own set of limitations.
+However, I soon realized that microcontrollers were far less organized compared to the streamlined ecosystem of TensorFlow and TensorFlow.js. The landscape was more fragmented, with each microcontroller’s usability heavily influenced by how active its producing company and cloud support providers were. Unlike TensorFlow.js, where version control and updates are well-regulated, microcontroller development could be chaotic. Writing raw C++ code was cumbersome and not user-friendly, and even alternatives like MicroPython came with their own set of limitations.<br><br>
 
-In response, I embarked on a new challenge: combining TensorFlow.js with WebSerial, bringing machine learning training directly into the browser. My goal was to make the process as seamless and accessible as it had been with TensorFlow.js, despite the complexity of working with microcontrollers.
+In response, I embarked on a new challenge: combining TensorFlow.js with WebSerial, bringing machine learning training directly into the browser. My goal was to make the process as seamless and accessible as it had been with TensorFlow.js, despite the complexity of working with microcontrollers.<br><br>
 </details>
 <hr>
 
