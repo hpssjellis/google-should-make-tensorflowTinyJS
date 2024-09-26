@@ -46,7 +46,7 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Se
    carousel();  
 }">
  
-<input type=button value="Start-Pre-Recorded" style="background-color:green; color:red;" onclick="{                                                        
+<input type=button value="Start-Pre-Recorded" style="background-color:green; color:yellow;" onclick="{                                                        
    document.getElementById('myStick').style.display = 'none';   
    xSlide  = document.getElementById('myCountLinks').value; 
    myMainNum = document.getElementById('myCountMax').value;  
