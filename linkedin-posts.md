@@ -4,6 +4,33 @@
 
 
 
+--
+
+Sept 28, 2024
+
+https://www.linkedin.com/posts/jeremy-ellis-4237a9bb_webdeveloper-bayarea-webai-activity-7245852724016136192-MRFd?utm_source=share&utm_medium=member_android
+
+
+Are you a #webDeveloper in the #bayArea?  Then come to the #webAI, #WebML event on Oct 18, 2024.
+
+https://rsvp.withgoogle.com/events/web-ai-summit-2024
+
+I am coming from #Canada, not presenting, but if you are going and already know WebAI, #webML, are an Arduino #maker, or #microcontroller #engineer, and curious about #webSerial and #tinyML in the #browser then talk to me at the event.
+
+
+Jeremy Ellis.
+Github Profile
+
+https://github.com/hpssjellis
+
+Trying to grow my beard back. Also wanting #tensorflowTinyJS
+
+
+
+
+--
+
+
 
 
 
