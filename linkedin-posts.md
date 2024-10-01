@@ -1,6 +1,20 @@
 
 
+Oct 1, 2024
 
+Are you going to the #bayArea Maker fair this October, 2024 for the Saturday or Sunday?  https://makerfaire.com/bay-area/   Why not include the Google #webAiSummit on the Friday? https://rsvp.withgoogle.com/events/web-ai-summit-2024
+
+
+
+I am trying to get Google to look into making #tensorflowTinyJS which would merge #TensorflowJS with #maker #ML #microcontrollers using #webSerial. I have a proof of concept, do you have an Arduino  #nano33BleSense?  
+
+
+
+https://store-usa.arduino.cc/products/nano-33-ble-sense-rev2-with-headers
+
+
+
+If interested then comment or just show up at the summit.
 
 
 
