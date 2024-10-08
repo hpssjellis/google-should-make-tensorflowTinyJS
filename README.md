@@ -125,22 +125,25 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Se
  </div>
 
 #### 1 
-### In My Opinion Google Should Develop TensorFlowTinyJS Machine Learning for Microcontrollers in the browser?
-
-## TensorFlowTinyJS has the potential to revolutionize the way microcontrollers interact with web pages via WebSerial, allowing for seamless training and deployment creation directly within the browser. 
-
-This innovative approach builds on the success of TensorFlow.js, which democratized machine learning (ML) by bringing it to the web. With the expected exponential growth in inexpensive ML-capable microcontrollers, developing TensorFlowTinyJS could be both timely and transformative, enabling a new era of accessible and efficient ML applications.
-
-
-<hr>
-
-#### 2 
-### My Story (1/3)
+### 
 
 
 
 <details closed> <summary>Script</summary>
-In 2017, Google introduced TensorFlow.js, revolutionizing how machine learning could be done directly in web pages. I was immediately drawn to its potential and spent the next few years diving deep into understanding and presenting it in a way that would make it accessible to others. Once I was satisfied with my mastery of TensorFlow.js, I shifted my focus to microcontrollers, particularly those capable of machine learning, such as the Arduino Portenta H7 and Nano 33 BLE Sense.<br><br>
+
+
+
+</details>
+<hr>
+
+
+#### 2 
+### 
+
+
+
+<details closed> <summary>Script</summary>
+
 
 
 </details>
@@ -148,11 +151,11 @@ In 2017, Google introduced TensorFlow.js, revolutionizing how machine learning c
 
 
 #### 3 
-### My Story (2/3)
+###
 
 <details closed> <summary>Script</summary>
 
-However, I soon realized that microcontrollers were far less organized compared to the streamlined ecosystem of TensorFlow and TensorFlow.js. The landscape was more fragmented, with each microcontroller’s usability heavily influenced by how active its producing company and cloud support providers were. Unlike TensorFlow.js, where version control and updates are well-regulated, microcontroller development could be chaotic. Writing raw C++ code with the GNU compiler was cumbersome and not user-friendly, and even alternatives like MicroPython came with their own set of limitations.<br><br>
+
 
 
 </details>
@@ -160,12 +163,11 @@ However, I soon realized that microcontrollers were far less organized compared 
 
 
 #### 4 
-### my Story (3/3)
+### 
+
 
 
 <details closed> <summary>Script</summary>
-
-In response, I embarked on a new challenge: combining TensorFlow.js with microcontroller connected WebSerial, bringing machine learning training directly into the browser. My goal was to make the process as seamless and accessible as it had been with TensorFlow.js, despite the complexity of working with microcontrollers.<br><br>
 
 
 
@@ -174,180 +176,146 @@ In response, I embarked on a new challenge: combining TensorFlow.js with microco
 
 
 #### 5 
-### Who is Jeremy Ellis
-
-I have been making neural networks since the early 1990's, most of mine never worked, I was really excited when Tensorflow was made public by Google in 2015, I also followed the creation of deeplearn.js by Nikhil Thorat and Daniel Smilkov which became tensorflowJS in 2017. For various reasons I have always made single page web applications (SPA's), now with access to code help from LLM's these SPA's  are becoming very useful. 
-
-See my Example SPA's of TensorflowJS at this website:
-[https://hpssjellis.github.io/beginner-tensorflowjs-examples-in-javascript/#tfjs-models](https://hpssjellis.github.io/beginner-tensorflowjs-examples-in-javascript/#tfjs-models)
+### 
 
 
-My Github Profile [https://github.com/hpssjellis](https://github.com/hpssjellis)
 
-<img src="https://github.com/user-attachments/assets/a641b911-2c7b-49c3-933a-07583006d1c9" width=700 />
-
-<hr>
+<details closed> <summary>Script</summary>
 
 
-#### 6 
-### Why Microcontrollers
 
-After learning TensorflowJS I started teaching Robotics wishing to bring the simplicity of Javascript to Arduinos.
-
+</details>
 <hr>
 
 
 
-#### 7
+#### 6
+### 
 
 
-### Pros of TensorFlowTinyJS for Local Client Side Applications (1/2)
 
-## Accessibility:
-No Installation Requirements: Unlike C++ or Python, TensorFlowTinyJS could run directly in the browser without additional installations.
-Ease of Use: Simplifies the development process, making it accessible to a broader audience, including those with limited technical expertise.
+<details closed> <summary>Script</summary>
 
 
-## Data Security:
-Local Execution: Training models locally ensures complete data security, as no data needs to be transmitted over the internet.
-Privacy: Sensitive data remains on the local computer, reducing the risk of data breaches. The trained ML model is flashed to the microcontroller but typically  does not contain the personal
-information of the training data.
 
-
-## Offline Capability:
-Field Work: Enables ML tasks to be performed in the field without requiring an internet connection, which is crucial for remote or mobile applications.
-
-## Reliability: 
-Ensures that ML applications and training can function even in areas with poor or no connectivity.
-
+</details>
 <hr>
 
 
-#### 8
-### Pros of TensorFlowTinyJS for Local Client Side Applications (2/2)
 
-## Resource Efficiency:
-Optimized for Constraints: Only a fraction of TensorFlow’s capabilities are needed, focusing on lightweight models suitable for microcontrollers.
-
-## Sensor Fusion: 
-Many microcontroller applications use modern or just developed new sensors, much sensor fusion ML does not require complex deep learning models. 
-Many microcontroller applications could be made using fairly simple dense layer deep learning models. Vision and sound typically need more complex models.
+#### 7 
+### 
 
 
-## Cost-Effective:
-Low-Cost Hardware: Utilizes inexpensive microcontrollers, making it a cost-effective solution for various applications.
+
+<details closed> <summary>Script</summary>
 
 
-## Open Source: 
-Leveraging open-source technologies can reduce costs and encourage community contributions.
 
-## Low Energy: 
-Many microcontroller machine learning models are trained to do simple functions that do not need energy expensive WiFi etc. 
-With lower energy battery consumption is reduced and the hardware can potentially work longer with minimal servicing.
-
-
+</details>
 <hr>
 
-#### 9
 
-### Cons of TensorFlowTinyJS for Local Client Side Applications  (1/2)
 
-### Performance Limitations:
-## Processing Power: 
-Microcontrollers have limited processing power, which can restrict the complexity of models that can be run locally.
-
-## Memory and Storage: 
-Limited memory and storage capacity can constrain the size and number of models.
-
-## Complexity in Implementation:
-## Integration Challenges: 
-Ensuring seamless integration between WebSerial and various microcontrollers can be complex.
-
-## Browser Compatibility: 
-Ensuring consistent performance across different browsers can be challenging.
+#### 8 
+### 
 
 
 
+<details closed> <summary>Script</summary>
+
+
+
+</details>
 <hr>
 
-#### 10
-
-### Cons of TensorFlowTinyJS for Local Client Side Applications  (2/2)
 
 
-### Security Concerns:
+#### 9 
+### 
 
-## Local Vulnerabilities: 
-While data security is enhanced by local training execution, the microcontroller should be secured against physical tampering and local attacks. 
-Note: The ML model on a microcontroller typically does not contain the original training data
 
-### Resource Constraints:
 
-## Power Consumption: 
-Running large ML models continuously can be power-intensive, which is a concern for battery-operated devices. 
-Note: many microcontrollers run very low power and with smaller models can be made to run continuously with minimal power consupmtion
+<details closed> <summary>Script</summary>
 
-## Model Optimization: 
-Requires significant effort to optimize models for the limited resources of microcontrollers.
 
+
+</details>
+<hr>
+
+
+
+#### 10 
+### 
+
+
+
+<details closed> <summary>Script</summary>
+
+
+
+</details>
 <hr>
 
 
 
 #### 11
-
-### Difficult Steps in Developing TensorFlowTinyJS (1/2)
-
-## Framework Development:
-
-## Creating a Lightweight ML Library: 
-Developing a version of TensorFlow that is optimized for microcontrollers.
-WebSerial Integration: Ensuring reliable communication between the browser and microcontrollers via WebSerial.
-
-### Model Optimization:
-
-## Quantization and Pruning: 
-Techniques to reduce model size and improve performance on microcontrollers.
-
-## Efficient Algorithms: 
-Developing algorithms that can run efficiently on limited hardware.
-
-<hr>
-
-#### 12
-
-### Difficult Steps in Developing TensorFlowTinyJS (2/2)
-
-### Security Measures:
-
-## Data Encryption: 
-Implementing robust encryption methods to protect data.
-
-## Secure Communication Protocols: 
-Ensuring secure data transmission between the browser and microcontrollers.
-
-### Testing and Debugging:
-
-## Cross-Platform Testing: 
-Ensuring the framework works seamlessly across different browsers and operating systems.
-
-## Hardware Compatibility: 
-Testing with a wide range of microcontrollers to ensure compatibility and performance.
+### 
 
 
+
+<details closed> <summary>Script</summary>
+
+
+
+</details>
 <hr>
 
 
 
-#### 13
+#### 12 
+### 
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+
+<details closed> <summary>Script</summary>
+
+
+
+</details>
 <hr>
 
-#### 14
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+#### 13 
+### 
+
+
+
+<details closed> <summary>Script</summary>
+
+
+
+</details>
 <hr>
+
+
+
+#### 14 
+### 
+
+
+
+<details closed> <summary>Script</summary>
+
+
+
+</details>
+<hr>
+
+
+
+
 
 #### 15
 
