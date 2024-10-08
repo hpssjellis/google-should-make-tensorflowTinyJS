@@ -2,20 +2,16 @@
 ### TensorflowTinyJS
 
 
-Fork this repo, fill in your markdown and <html> for the 15 slides (max 20 slides), record your presentation and save it as ```recorded-talk.m4a``` (or change the code to reflect the new name.)
+Fork this repo, fill in your markdown and <html> for the 15 slides (max 20 slides), record your presentation and save it as ```recorded-talk.m4a``` (or change the code to reflect the new name.) A blank version of this is [here](https://github.com/hpssjellis/pecha-kucha-lightning-talks-template)
  
  Setup gitPages --> settings-->pages-->none to master-->save--> copy the link and replace below.
 
-Demo of this Github Markdown can be viewed at this GitPages websitesite  [https://hpssjellis.github.io/javascript-on-markdown/](https://hpssjellis.github.io/google-should-make-tensorflowTinyJS//)
+This page is viewed at  [https://hpssjellis.github.io/google-should-make-tensorflowTinyJS/](https://hpssjellis.github.io/google-should-make-tensorflowTinyJS/)<br>
 
-or use the QR code:<br>
 
 <img src="https://github.com/user-attachments/assets/ee407d91-f0cf-48f0-9abc-d9af472372f8" width=300 /><br>
 
 
-
-
-This Github Repository [https://github.com/hpssjellis/google-should-make-tensorflowTinyJS](https://github.com/hpssjellis/google-should-make-tensorflowTinyJS)
 
 
 Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Seconds per Slide: <input type="text" id="myCountMax" size="6" value="20" >
