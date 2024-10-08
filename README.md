@@ -125,7 +125,7 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Se
  </div>
 
 #### 1 
-### Background (1 of 2)
+### Jeremy Ellis
 
 
 
@@ -152,8 +152,8 @@ When TensorFlow launched in 2015, I saw a glimmer of hope. By 2018, I had become
 <hr>
 
 
-#### 3 Proposal
-###
+#### 3 
+### Proposal
 
 <details closed> <summary>Script</summary>
 
@@ -178,7 +178,7 @@ While the world is buzzing about both cloud and client-side LLMs, one of the nex
 
 
 #### 5 
-### Not al,l rosy
+### Not All Rosy
 
 
 
@@ -231,7 +231,7 @@ Combine TensorFlowJS with TensorFlowMicro. That’s what I’ve done with TinyML
 
 
 #### 8 
-### 
+### The Steps (TinyMLjs)
 
 
 
@@ -255,7 +255,7 @@ Combine TensorFlowJS with TensorFlowMicro. That’s what I’ve done with TinyML
 
 
 #### 9 
-###  The small print
+###  The small print (Issues)
 
 
 
@@ -292,7 +292,7 @@ Do we even need a microcontroller IDE? Can the code be written client-side or an
 
 
 #### 11
-### Google
+### Google has the Power
 
 
 
@@ -324,7 +324,7 @@ It’s good to remember Atwood’s Law: any application that can be written in J
 
 
 #### 13 
-### wrap up
+### Nearly Finished
 
 
 
