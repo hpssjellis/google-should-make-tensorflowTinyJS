@@ -143,6 +143,11 @@ Github Profile: [https://github.com/hpssjellis](https://github.com/hpssjellis)<b
 
 ## 35 years as a coding teacher, including working on neural networks, Javascript and almost a decade on robotics, 3D printing and awznimation.
 
+ <video controls autoplay muted loop style="width:400px; height:300px;">
+     <source src="webanim0001-0100.mp4" type="video/mp4" width="400px" height="300px">
+     Your browser does not support the video tag.
+ </video>
+
 <details class="myDetails" closed> <summary>Script</summary>
 
 Hello, my name is Jeremy Ellis, and I have the unique talent of making every possible technological mistake a grade 10 student could make. This has made me a very understanding teacher, and I’ve been teaching technology for over 35 years.
