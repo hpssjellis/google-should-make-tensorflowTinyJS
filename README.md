@@ -141,7 +141,7 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Se
 Github Profile: [https://github.com/hpssjellis](https://github.com/hpssjellis)<br>
 ![image](https://github.com/user-attachments/assets/36fad8cf-1329-4bc1-b374-586b98aa2528)
 
-## 35 years as a coding teacher, including working on neural networks, Javascript and almost a decade on robotics, 3D printing and awznimation.
+## 35 years as a coding teacher, including working on neural networks, Javascript and almost a decade on robotics, 3D printing and blender 3D animation.
 
  <video controls autoplay muted loop style="width:400px; height:300px;">
      <source src="media/tf-symbol.mp4" type="video/mp4" width="400px" height="300px">
