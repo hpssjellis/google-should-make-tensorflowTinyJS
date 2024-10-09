@@ -283,7 +283,7 @@ Combine TensorFlowJS with TensorFlowMicro. That’s what I’ve done with TinyML
 #### 9 
 ###  The small print (Issues)
 
-TensorflowJS_converter only workis in python
+TensorflowJS_converter only works using python on from a cloud site.
 
 WebUSB/WebSerial not stable on Android
 
@@ -307,6 +307,9 @@ Web serial is not as stable on Android. Google could probably solve that.
 ### The advanced Issues
 
 Flashing compiled code using webSerial over the browser.
+[ESP Online Flash Tool](https://jason2866.github.io/WebSerial_ESPTool/)<br>
+![image](https://github.com/user-attachments/assets/5620a834-a696-49b0-aec8-848ecb1cc28c)
+
 
 Compiling MCU code in the browser.
 
