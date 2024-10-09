@@ -158,6 +158,9 @@ Back in the 1990s, I was experimenting with 3 layer, 8 node neural networks whil
 
 ![image](https://github.com/user-attachments/assets/6b15a17e-1e91-465d-8c3f-0003104b129a)
 
+![image](https://github.com/user-attachments/assets/ff8dd56a-99f7-4f2d-aa5f-b54034295571)
+
+![image](https://github.com/user-attachments/assets/dc9b531c-eba5-4a6a-b6c4-03d6495bf67c)
 
 
 ![image](https://github.com/user-attachments/assets/da6f3f73-425a-43b0-8031-3e93c475cc42)
@@ -331,9 +334,12 @@ Google can do it!
 
 <details  class="myDetails" closed> <summary>Script</summary>
 
-Google has the power to maintain and make this available to everyone.
+Google has the power to maintain and make this available to everyone. 
 
 It’s good to remember Atwood’s Law: any application that can be written in JavaScript will eventually be written in JavaScript.
+
+Reminder tensorflowJS combined with TensorflowMicro does not have to work for all ML models and all microcontrollers. It needs to be able to simplify
+using microcontrollers for the general public. Anyone is welcome to try to use the most optimized Python or C++ methods to work on more advanced microcontroller machine learning 
 
 </details>
 <hr>
@@ -363,7 +369,7 @@ TinyMLjs proves that the browser can train macine learning models and those mode
 
 <details  class="myDetails" closed> <summary>Script</summary>
 
-I have a proof of concept that TensorFlowJS can be used to train the multitude of low-power, low-cost microcontrollers, giving power, privacy, freedom, and stability to everyone in this fast-changing world of microcontroller cloud costs and unstable software. Let’s be a part of using the greatest combination of Google frameworks: TensorFlowJS with TensorFlowMicro.
+I have a proof of concept that TensorFlowJS can be used to train the multitude of low-power, low-cost microcontrollers, giving power, privacy, freedom, and stability to everyone in this fast-changing world of microcontroller cloud costs and unstable software. Let’s be a part of using the greatest combination of Google frameworks: TensorFlowJS with TensorFlowMicro. As MCU become more common our right to repair in a simplified way becomes more important.
 
 </details>
 <hr>
