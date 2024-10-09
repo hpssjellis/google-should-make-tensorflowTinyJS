@@ -145,7 +145,6 @@ Github Profile: [https://github.com/hpssjellis](https://github.com/hpssjellis)<b
 
  <video controls autoplay muted loop style="width:400px; height:300px;">
      <source src="media/tf-symbol.mp4" type="video/mp4" width="400px" height="300px">
-     Your browser does not support the video tag.
  </video>
 
 <details class="myDetails" closed> <summary>Script</summary>
@@ -160,6 +159,10 @@ Back in the 1990s, I was experimenting with 3 layer, 8 node neural networks whil
 
 #### 2 
 ### Tensorflow 
+
+ <video controls autoplay muted loop style="width:400px; height:300px;">
+     <source src="media/tf-symbol.mp4" type="video/mp4" width="400px" height="300px">
+ </video>
 
 ![image](https://github.com/user-attachments/assets/6b15a17e-1e91-465d-8c3f-0003104b129a)
 
