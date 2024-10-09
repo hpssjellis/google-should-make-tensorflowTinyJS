@@ -267,7 +267,7 @@ Combine TensorFlowJS with TensorFlowMicro. That’s what I’ve done with TinyML
 
 
 <details  class="myDetails" closed> <summary>Script</summary>
-<ol>
+
 <li> Load serial monitor input-output C++ code using your favorite microcontroller IDE.
 
 <li> Connect the microcontroller to the browser using webSerial.
@@ -279,7 +279,7 @@ Combine TensorFlowJS with TensorFlowMicro. That’s what I’ve done with TinyML
 <li> Using TensorflowJS_converter installed using Python convert the model from TFJS to TFlite, then to a C-header file using xxd.
 
 <li> Put that C-header file into working C++ code using your IDE, compile and flash it to the microcontroller.
-</ol>
+
 </details>
 <hr>
 
