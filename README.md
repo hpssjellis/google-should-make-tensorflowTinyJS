@@ -226,7 +226,7 @@ TinyMLjs
 
 My Proof of concepts TinyMLjs 
 
-https://hpssjellis.github.io/tinyMLjs/public/acceleration/a00-best-acceleration.html
+[https://hpssjellis.github.io/tinyMLjs/public/acceleration/a00-best-acceleration.html](https://hpssjellis.github.io/tinyMLjs/public/acceleration/a00-best-acceleration.html)
 
 
 <details closed> <summary>Script</summary>
