@@ -122,26 +122,35 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Se
 #### 1 
 ### Jeremy Ellis
 
+Github Profile: [https://github.com/hpssjellis](https://github.com/hpssjellis)
+![image](https://github.com/user-attachments/assets/36fad8cf-1329-4bc1-b374-586b98aa2528)
 
+## 35 years as a coding Teacher, including working on neural networks, Javascript and almost a decade on Robotics, 3D Printing and Animation.
 
 <details closed> <summary>Script</summary>
 
 Hello, my name is Jeremy Ellis, and I have the unique talent of making every possible technological mistake a grade 10 student could make. This has made me a very understanding teacher, and I’ve been teaching technology for over 35 years.
 
-Back in the 1990s, I was experimenting with 3 layer 8 node neural networks while most people were using "if" statements for AI. I manually changed the weights. My models never worked.
+Back in the 1990s, I was experimenting with 3 layer, 8 node neural networks while most people were using "if" statements for AI. I manually changed the weights. My models never worked.
 
 </details>
 <hr>
 
 
 #### 2 
-### Tensorflow
+### Tensorflow 
+
+![image](https://github.com/user-attachments/assets/6b15a17e-1e91-465d-8c3f-0003104b129a)
+
+
+
+![image](https://github.com/user-attachments/assets/da6f3f73-425a-43b0-8031-3e93c475cc42)
 
 
 
 <details closed> <summary>Script</summary>
 
-When TensorFlow launched in 2015, I saw a glimmer of hope. By 2018, I had become an expert in TensorFlowJS, and since then, I’ve been striving to master machine learning coding using TFmicro on the Arduino MBED Pro line and more recently, the SeeedStudio XIAO’s line of microcontrollers.
+When TensorFlow launched in 2015, I saw a deep learning glimmer of hope. By 2018, I had become an expert in TensorFlowJS, and since then, I’ve been striving to master machine learning coding using TFmicro on the Arduino MBED Pro line and more recently, the SeeedStudio XIAO’s line of microcontrollers.
 
 </details>
 <hr>
@@ -149,6 +158,11 @@ When TensorFlow launched in 2015, I saw a glimmer of hope. By 2018, I had become
 
 #### 3 
 ### Proposal
+
+
+
+
+![image](https://github.com/user-attachments/assets/f5bda31b-6db5-47b2-a18a-ee7f41bec10f)
 
 <details closed> <summary>Script</summary>
 
@@ -164,6 +178,11 @@ Today, I propose combining these two passions: TensorFlowJS and TFmicro. Web ser
 
 
 
+![image](https://github.com/user-attachments/assets/c7866674-a865-4864-9825-29c420821495)
+
+
+![image](https://github.com/user-attachments/assets/9c7b2914-4170-4e44-a461-d4956ee4c082)
+
 <details closed> <summary>Script</summary>
 
 While the world is buzzing about both cloud and client-side LLMs, one of the next phases is low-power, low-cost, specifically trained ML-capable microcontrollers that interact with the real world. The Seeedstudio thumb sized XIAO-esp32s3-sense, for example, has an onboard camera that can perform vision machine learning at about 7 FPS for just $14 USD. This kind of capability was unheard of even a few years ago at that price.
@@ -175,7 +194,7 @@ While the world is buzzing about both cloud and client-side LLMs, one of the nex
 #### 5 
 ### Not All Rosy
 
-
+Working with Microcontrollers has a lot of issues:
 
 <details closed> <summary>Script</summary>
 
@@ -189,7 +208,7 @@ However, the reality isn’t so rosy—most training happens in the cloud, for w
 #### 6
 ### TensorflowJS
 
-
+TensorflowJS solves a lot of the issues micrcontrollers have: 
 
 <details closed> <summary>Script</summary>
 
@@ -203,6 +222,7 @@ TensorFlowJS, on the other hand, offers ease of use, client-side security, priva
 #### 7 
 ### The Solution
 
+TinyMLjs
 
 My Proof of concepts TinyMLjs 
 
@@ -252,7 +272,9 @@ Combine TensorFlowJS with TensorFlowMicro. That’s what I’ve done with TinyML
 #### 9 
 ###  The small print (Issues)
 
+TensorflowJS_converter only workis in python
 
+WebUSB/WebSerial not stable on Android
 
 <details closed> <summary>Script</summary>
 
@@ -273,7 +295,9 @@ Web serial is not as stable on Android. Google could probably solve that.
 #### 10 
 ### The advanced Issues
 
+Flashing compiled code using webSerial over the browser.
 
+Compiling MCU code in the browser.
 
 <details closed> <summary>Script</summary>
 
@@ -289,7 +313,7 @@ Do we even need a microcontroller IDE? Can the code be written client-side or an
 #### 11
 ### Google has the Power
 
-
+Google can do it!
 
 <details closed> <summary>Script</summary>
 
@@ -321,7 +345,7 @@ It’s good to remember Atwood’s Law: any application that can be written in J
 #### 13 
 ### Nearly Finished
 
-
+TinyMLjs proves that the browser can train macine learning models and those models can be converted and installed on microcontrollers.
 
 <details closed> <summary>Script</summary>
 
@@ -336,6 +360,9 @@ I have a proof of concept that TensorFlowJS can be used to train the multitude o
 
 #### 14
 ### Conclusion
+
+Let's start working on making rtLite and TensorflowJS working together in the browser. It can be done, just needs a community.
+
 
 <details closed> <summary>Script</summary>
 
