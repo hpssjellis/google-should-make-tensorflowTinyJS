@@ -166,7 +166,7 @@ When TensorFlow launched in 2015, I saw a deep learning glimmer of hope. By 2018
 
 <details closed> <summary>Script</summary>
 
-Today, I propose combining these two passions: TensorFlowJS and TFmicro. Web serial allows us to connect microcontrollers in the browser, merging these two Google-created technologies to create something incredibly powerful for the public, makers, education, and especially for economically disadvantaged students with poor internet and minimal ability to install software.
+Today, I propose combining these two passions: TensorFlowJS and TFmicro. Web serial allows us to connect microcontrollers in the browser, merging these two Google-created technologies to create something encredibly powerful for the public, makers, education, and especially for economically disadvantaged students with poor internet and minimal ability to install software.
 
 
 </details>
@@ -251,19 +251,19 @@ Combine TensorFlowJS with TensorFlowMicro. That’s what I’ve done with TinyML
 
 
 <details closed> <summary>Script</summary>
+<ol>
+<li> Load serial monitor input-output C++ code using your favorite microcontroller IDE.
 
-1. Load serial monitor input-output C++ code using your favorite microcontroller IDE.
+<li> Connect the microcontroller to the browser using webSerial.
 
-1. Connect the microcontroller to the browser using webSerial.
+<li> Send sensor data to the browser.
 
-1. Send sensor data to the browser.
+<li> Train an ML model.
 
-1. Train an ML model.
+<li> Using TensorflowJS_converter installed using Python convert the model from TFJS to TFlite, then to a C-header file using xxd.
 
-1. Using TensorflowJS_converter installed using Python convert the model from TFJS to TFlite, then to a C-header file using xxd.
-
-1. Put that C-header file into working C++ code using your IDE, compile and flash it to the microcontroller.
-
+<li> Put that C-header file into working C++ code using your IDE, compile and flash it to the microcontroller.
+</ol>
 </details>
 <hr>
 
