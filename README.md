@@ -122,7 +122,7 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Se
 #### 1 
 ### Jeremy Ellis
 
-Github Profile: [https://github.com/hpssjellis](https://github.com/hpssjellis)
+Github Profile: [https://github.com/hpssjellis](https://github.com/hpssjellis)<br>
 ![image](https://github.com/user-attachments/assets/36fad8cf-1329-4bc1-b374-586b98aa2528)
 
 ## 35 years as a coding Teacher, including working on neural networks, Javascript and almost a decade on Robotics, 3D Printing and Animation.
