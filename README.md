@@ -111,7 +111,7 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Se
 }"> 
 
  <input id="myPause" type=button value="Scripts Open" onclick="{ 
-   let myScripts = getClassesById('myDetails')
+   let myScripts = document.getElementsByClassName('myDetails')
    if (this.value == 'Scripts Open'){                                                     
        this.value = 'Scripts Close'; 
        for (let i=0; i < myScripts.length; i++){
