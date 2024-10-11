@@ -240,7 +240,7 @@ However, the reality isn’t so rosy—most training happens in the cloud, for w
 #### 6
 ### TensorflowJS
 
-TensorflowJS solves a lot of the issues micrcontrollers have: 
+TensorflowJS solves a lot of the issues microcontrollers have: 
 
  <video controls autoplay muted loop style="width:400px; height:300px;">
      <source src="media/ml-upload.mp4" type="video/mp4" width="400px" height="300px">
