@@ -204,11 +204,6 @@ Today, I propose combining these two passions: TensorFlowJS and TFmicro. Web ser
 
 
 
-![image](https://github.com/user-attachments/assets/c7866674-a865-4864-9825-29c420821495)
-
-
-![image](https://github.com/user-attachments/assets/9c7b2914-4170-4e44-a461-d4956ee4c082)
-
  <video controls autoplay muted loop style="width:400px; height:300px;">
      <source src="media/train.mp4" type="video/mp4" width="400px" height="300px">
  </video>
