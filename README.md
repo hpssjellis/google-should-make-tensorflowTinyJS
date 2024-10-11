@@ -162,14 +162,7 @@ Back in the 1990s, I was experimenting with 3 layer, 8 node neural networks whil
      <source src="media/tf-symbol.mp4" type="video/mp4" width="400px" height="300px">
  </video>
 
-![image](https://github.com/user-attachments/assets/6b15a17e-1e91-465d-8c3f-0003104b129a)
 
-![image](https://github.com/user-attachments/assets/ff8dd56a-99f7-4f2d-aa5f-b54034295571)
-
-![image](https://github.com/user-attachments/assets/dc9b531c-eba5-4a6a-b6c4-03d6495bf67c)
-
-
-![image](https://github.com/user-attachments/assets/da6f3f73-425a-43b0-8031-3e93c475cc42)
 
 
 
@@ -188,6 +181,10 @@ When TensorFlow launched in 2015, I saw a deep learning glimmer of hope. By 2018
 
 
 ![image](https://github.com/user-attachments/assets/f5bda31b-6db5-47b2-a18a-ee7f41bec10f)
+
+ <video controls autoplay muted loop style="width:400px; height:300px;">
+     <source src="media/xyz.mp4" type="video/mp4" width="400px" height="300px">
+ </video>
 
 <details  class="myDetails" closed> <summary>Script</summary>
 
@@ -208,6 +205,10 @@ Today, I propose combining these two passions: TensorFlowJS and TFmicro. Web ser
 
 ![image](https://github.com/user-attachments/assets/9c7b2914-4170-4e44-a461-d4956ee4c082)
 
+ <video controls autoplay muted loop style="width:400px; height:300px;">
+     <source src="media/train.mp4" type="video/mp4" width="400px" height="300px">
+ </video>
+
 <details  class="myDetails" closed> <summary>Script</summary>
 
 While the world is buzzing about both cloud and client-side LLMs, one of the next phases is low-power, low-cost, specifically trained ML-capable microcontrollers that interact with the real world. The Seeedstudio thumb sized XIAO-esp32s3-sense, for example, has an onboard camera that can perform vision machine learning at about 7 FPS for just $14 USD. This kind of capability was unheard of even a few years ago at that price.
@@ -220,6 +221,11 @@ While the world is buzzing about both cloud and client-side LLMs, one of the nex
 ### Not All Rosy
 
 Working with Microcontrollers has a lot of issues:
+
+
+ <video controls autoplay muted loop style="width:400px; height:300px;">
+     <source src="media/convert.mp4" type="video/mp4" width="400px" height="300px">
+ </video>
 
 <details  class="myDetails" closed> <summary>Script</summary>
 
@@ -235,9 +241,15 @@ However, the reality isn’t so rosy—most training happens in the cloud, for w
 
 TensorflowJS solves a lot of the issues micrcontrollers have: 
 
+
+
+ 
 <details  class="myDetails" closed> <summary>Script</summary>
 
 TensorFlowJS, on the other hand, offers ease of use, client-side security, privacy, simplicity, power, and a very solid NPM based version control. My ML webpages made six years ago still typically work as intended. The many positives for TFJS have given it a very strong user base, but most web ML solutions stay on the web and have little impact on the real world.
+
+
+
 
 </details>
 <hr>
