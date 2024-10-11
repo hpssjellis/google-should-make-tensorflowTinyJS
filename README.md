@@ -144,6 +144,10 @@ Github Profile: [https://github.com/hpssjellis](https://github.com/hpssjellis)<b
 ## 35 years as a coding teacher, including working on neural networks, Javascript and almost a decade on robotics, 3D printing and blender 3D animation.
 
 
+ <video controls autoplay muted loop style="width:400px; height:300px;">
+     <source src="media/webserial.mp4" type="video/mp4" width="400px" height="300px">
+ </video>
+
 
 <details class="myDetails" closed> <summary>Script</summary>
 
