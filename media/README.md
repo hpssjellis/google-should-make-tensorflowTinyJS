@@ -3,7 +3,7 @@ videos here
 
 
  <video controls autoplay muted loop style="width:400px; height:300px;">
-     <source src="webserial.mp4" type="video/mp4" width="400px" height="300px">
+     <source src="media/webserial.mp4" type="video/mp4" width="400px" height="300px">
  </video>
 
 
