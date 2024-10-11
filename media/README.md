@@ -2,6 +2,11 @@ videos here
 
 
 
+ <video controls autoplay muted loop style="width:400px; height:300px;">
+     <source src="webserial.mp4" type="video/mp4" width="400px" height="300px">
+ </video>
+
+
 and images
 
 ![image](https://github.com/user-attachments/assets/6b15a17e-1e91-465d-8c3f-0003104b129a)
