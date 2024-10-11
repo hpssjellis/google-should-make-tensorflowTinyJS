@@ -11,6 +11,10 @@ This page is viewed at  [https://hpssjellis.github.io/google-should-make-tensorf
 <img src="https://github.com/user-attachments/assets/ee407d91-f0cf-48f0-9abc-d9af472372f8" width=300 /><br>
 
 
+ <video controls autoplay muted loop style="width:400px; height:300px;">
+     <source src="media/tf-symbol.mp4" type="video/mp4" width="400px" height="300px">
+ </video>
+
 
 
 Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Seconds per Slide: <input type="text" id="myCountMax" size="6" value="20" >
@@ -313,9 +317,6 @@ TensorflowJS_converter only works using python on from a cloud site.
 WebUSB/WebSerial not stable on Android
 
 
- <video controls autoplay muted loop style="width:400px; height:300px;">
-     <source src="media/tf-symbol.mp4" type="video/mp4" width="400px" height="300px">
- </video>
 
  
 <details  class="myDetails" closed> <summary>Script</summary>
@@ -359,6 +360,11 @@ Do we even need a microcontroller IDE? Can the code be written client-side or an
 ### Google has the Power
 
 Google can do it!
+
+
+ <video controls autoplay muted loop style="width:400px; height:300px;">
+     <source src="media/tf-js-micro.mp4" type="video/mp4" width="400px" height="300px">
+ </video>
 
 <details  class="myDetails" closed> <summary>Script</summary>
 
