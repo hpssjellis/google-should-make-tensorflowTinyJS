@@ -162,10 +162,10 @@ Back in the 1990s, I was experimenting with 3 layer, 8 node neural networks whil
 #### 2 
 ### Tensorflow 
 
- <video controls autoplay muted loop style="width:400px; height:300px;">
-     <source src="media/tf-symbol.mp4" type="video/mp4" width="400px" height="300px">
- </video>
 
+ <video controls autoplay muted loop style="width:400px; height:300px;">
+     <source src="media/include-rocksettaTinyML.mp4" type="video/mp4" width="400px" height="300px">
+ </video>
 
 
 
@@ -185,6 +185,8 @@ When TensorFlow launched in 2015, I saw a deep learning glimmer of hope. By 2018
 
 
 ![image](https://github.com/user-attachments/assets/f5bda31b-6db5-47b2-a18a-ee7f41bec10f)
+
+
 
  <video controls autoplay muted loop style="width:400px; height:300px;">
      <source src="media/xyz.mp4" type="video/mp4" width="400px" height="300px">
@@ -240,6 +242,9 @@ However, the reality isn’t so rosy—most training happens in the cloud, for w
 
 TensorflowJS solves a lot of the issues micrcontrollers have: 
 
+ <video controls autoplay muted loop style="width:400px; height:300px;">
+     <source src="media/ml-upload.mp4" type="video/mp4" width="400px" height="300px">
+ </video>
 
 
  
@@ -307,6 +312,12 @@ TensorflowJS_converter only works using python on from a cloud site.
 
 WebUSB/WebSerial not stable on Android
 
+
+ <video controls autoplay muted loop style="width:400px; height:300px;">
+     <source src="media/tf-symbol.mp4" type="video/mp4" width="400px" height="300px">
+ </video>
+
+ 
 <details  class="myDetails" closed> <summary>Script</summary>
 
 
