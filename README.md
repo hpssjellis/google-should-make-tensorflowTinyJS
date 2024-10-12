@@ -5,7 +5,6 @@
 Fork this repo, fill in your markdown and <html> for the 15 slides (max 20 slides), record your presentation and save it as ```recorded-talk.m4a``` (or change the code to reflect the new name.) A blank version of this github is [here](https://github.com/hpssjellis/pecha-kucha-lightning-talks-template)
  
 
-This page is viewed at  [https://hpssjellis.github.io/google-should-make-tensorflowTinyJS/](https://hpssjellis.github.io/google-should-make-tensorflowTinyJS/)<br>
 
 <table border=1><tr><td>
  This demo is viewed at <br><a href="https://hpssjellis.github.io/google-should-make-tensorflowTinyJS/">https://hpssjellis.github.io/google-should-make-tensorflowTinyJS/</a><br>
