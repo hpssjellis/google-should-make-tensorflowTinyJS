@@ -8,7 +8,8 @@ Fork this repo, fill in your markdown and <html> for the 15 slides (max 20 slide
 This page is viewed at  [https://hpssjellis.github.io/google-should-make-tensorflowTinyJS/](https://hpssjellis.github.io/google-should-make-tensorflowTinyJS/)<br>
 
 <table border=1><tr><td>
-<br><img src="https://github.com/user-attachments/assets/ee407d91-f0cf-48f0-9abc-d9af472372f8" width=300 />
+ This demo is viewed at <br> [https://hpssjellis.github.io/google-should-make-tensorflowTinyJS/](https://hpssjellis.github.io/google-should-make-tensorflowTinyJS/)<br>
+<img src="https://github.com/user-attachments/assets/ee407d91-f0cf-48f0-9abc-d9af472372f8" width=300 />
 </td><td>
  <video controls autoplay muted loop style="width:400px; height:300px;">
      <source src="media/sound02.mp4" type="video/mp4" width="400px" height="300px">
