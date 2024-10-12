@@ -150,11 +150,8 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Se
 
 
 
-
-Github Profile: [https://github.com/hpssjellis](https://github.com/hpssjellis)<br>
-
-
 <table border=1><tr><td>
+ Jeremy Ellis Github Profiel at <br><a href="https://github.com/hpssjellis](https://github.com/hpssjellis">github.com/hpssjellis</a><br>
 <img src="https://github.com/user-attachments/assets/36fad8cf-1329-4bc1-b374-586b98aa2528" width=350 />
 </td><td>
  <video controls autoplay muted loop style="width:400px; height:300px;">
