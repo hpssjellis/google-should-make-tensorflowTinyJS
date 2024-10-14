@@ -469,16 +469,22 @@ Google has the power to truly democratize machine learning at the edge. With min
 
 
 #### 12 
-### Google Can democritize ML on Microcontrollers (1 of 2)
+### Who is Jeremy Ellis
 
-Reduce-Reuse-Recyle and the "Right to Repair". These concepts become much more 
-apparent when you have hundreds of micrcontrollers in your house and at work. 
-Their code changing every few months, companies going out of business, cloud sites charging
-more per month.
+
 
 <table border=1> <col style="width:50%"><col style="width:50%"><tr><td>
 
+ <ol>
+  <li>Technology teacher for ~35 years</li>
+  <li>In the 1990's was making 3 layer 8 node neural networks</li>
+  <li>Manually adjusted the weights. Nothing really worked</li>
+  <li>2015 Tensorflow made everything easier</li>
+  <li>By 2019 was an expert in browser based TensorflowJS</li>
+  <li>Then switched to physical microcontrollers</li>
+  <li>By 2024 I have become an expert at Arduino Pro and the Seeedstudio esp32. </li>
 
+</ol>
 </td><td>
  RocksettaTinyML machine learning code to be compiled <br>
  <video controls autoplay muted loop style="width:512px; height:288px;">
@@ -491,7 +497,8 @@ more per month.
 
 <details  class="myDetails" closed> <summary>Script</summary>
 
-By providing the right tools, Google could revolutionize how we interact with machine learning at the edge, simplifying workflows and empowering developers.
+Jeremy Ellis has been a technology teacher for about 35 years. In the 1990's was making 3 layer, 8 node, neural networks and manually adjusted the weights. Nothing really worked. 
+2015 Tensorflow made everything easier. By 2019 I was an expert in browser based TensorflowJS. Then switched to physical microcontrollers. By 2024 I have become an expert at Arduino Pro and the Seeedstudio esp32. 
 
 </details>
 <hr>
