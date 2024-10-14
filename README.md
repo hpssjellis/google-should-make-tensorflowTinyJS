@@ -325,6 +325,9 @@ My Proof of concepts TinyMLjs
 [https://hpssjellis.github.io/tinyMLjs/public/acceleration/a00-best-acceleration.html](https://hpssjellis.github.io/tinyMLjs/public/acceleration/a00-best-acceleration.html)
 
 
+Combine TensorFlowJS with TensorFlowMicro. That’s what I’ve done with TinyMLJS using the Arduino Nano33Ble-Sense. I have a Github example I call TinyMLjs.
+
+
 </td><td>
  Title <br>
  <video controls autoplay muted loop style="width:400px; height:300px;">
@@ -339,28 +342,18 @@ My Proof of concepts TinyMLjs
 Microcontroller machine learning is hard to do, cloud based and constantly changing. TFJS is easier and stable but lacks real-world power.
 
 
+
+</details>
+<hr>
+
+
+
 #### 8 
 ### The Steps (TinyMLjs)
 
 
 
 <table border=1><tr><td>
-
-Combine TensorFlowJS with TensorFlowMicro. That’s what I’ve done with TinyMLJS using the Arduino Nano33Ble-Sense. I have a Github example I call TinyMLjs.
-
-</td><td>
- Title <br>
- <video controls autoplay muted loop style="width:400px; height:300px;">
-     <source src="media/vid/" type="video/mp4" width="400px" height="300px">
- </video>
- </td></tr>
- </table>
-
-
-
-</details>
-<hr>
-
 
 
 
