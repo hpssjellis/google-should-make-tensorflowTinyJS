@@ -444,10 +444,10 @@ browser on desktop, laptop and Android phone. Google can democritize ML at the e
  of web Developers the Power to adapt ML models for the physical world. 
  
  <ol>
-  <li style="color:lime">Google can stabilize webSerial on Android</li>
-  <li style="color:lime">Google can make a lite TensorflowJS_converter in Javascript </li>
-  <li style="color:lime">Google can improve browser code flashing</li>
-  <li style="color:lime">Google can brainstorm clientside compiling</li>
+  <li style="color:green">Google can stabilize webSerial on Android</li>
+  <li style="color:green">Google can make a lite TensorflowJS_converter in Javascript </li>
+  <li style="color:green">Google can improve browser code flashing</li>
+  <li style="color:green">Google can brainstorm clientside compiling</li>
 </ol>
 
 </td><td>
