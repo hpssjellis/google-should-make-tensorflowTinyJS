@@ -520,7 +520,7 @@ Not yet mentioned.
 
 
 <table border=1> <col style="width:50%"><col style="width:50%"><tr><td>
-TinyMLjs proves that the browser can train macine learning models and those models can be converted and installed on microcontrollers.
+TinyMLjs proves that the browser can train machine learning models and those models can be converted and installed on microcontrollers.
 
 
 </td><td>
@@ -550,7 +550,7 @@ I have a proof of concept that TensorFlowJS can be used to train the multitude o
 
 
 <table border=1> <col style="width:50%"><col style="width:50%"><tr><td>
-Let's start working on making rtLite and TensorflowJS working together in the browser. It can be done, just needs a community.
+Let's start making rtLite and TensorflowJS work together in the browser. It can be done, just needs a community.
 
 </td><td>
 Also serial output can be tested in th browswer <br>
@@ -580,11 +580,11 @@ Developing TensorFlowTinyJS for local use on microcontrollers could democratize 
 
 
 <table border=1> <col style="width:50%"><col style="width:50%"><tr><td>
-Exciting to be part of the TensorflowJS commkunity that has so much potential for the future
+Exciting to be part of the TensorflowJS community that has so much potential for the future of ML.
 
-Thank you, by Jeremy Ellis
+Thank you, by Jeremy Ellis<br><br>
 
-LinkedIn: <a href="https://www.linkedin.com/in/jeremy-ellis-4237a9bb/">jeremy-ellis-4237a9bb</a>
+LinkedIn: <a href="https://www.linkedin.com/in/jeremy-ellis-4237a9bb/">jeremy-ellis-4237a9bb</a><br>
 
 Github: <a href="https://github.com/hpssjellis">github.com/hpssjellis</a>
 
