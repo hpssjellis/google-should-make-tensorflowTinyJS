@@ -142,13 +142,14 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Se
 
 #### 1 
 ### Exciting times for WebAI!
-TensorflowJS with TfMicro in the web browswer using WebSerial
+TensorflowJS with TfMicro in the web browser using WebSerial
 
 <table border=1> <col style="width:50%"><col style="width:50%"><tr><td>
 
 We all know that TensorflowJS makes amazing Machine Learning models
-in the browswer using vision or sound but now we can start thinging about
-other sensors and real actuators using microcontrollers trained in the browser
+in the browser using vision or sound but now with my Proof of concept
+we can start thinking about training other sensors and real life actuators 
+using low cost microcontrollers doing ML at the edge all trained in the browser.
  
 
 <br>
