@@ -432,16 +432,13 @@ Finally, we reach the ultimate goal: compiling microcontroller code directly in 
 
 
 #### 11
-### Google Can democritize ML on Microcontrollers 
+### Google Can Democritize ML on Microcontrollers in the Browser 
 
 
 
 
 <table border=1> <col style="width:50%"><col style="width:50%"><tr><td>
-Google can help make micr0controller machine learning training possible in the 
-browser on desktop, laptop and Android phone. Google can democritize ML at the edge
- with some minor changes to the TensorflowJS_Converter, which would allow millions 
- of web Developers the Power to adapt ML models for the physical world. 
+
  
  <ol>
   <li style="color:green">Google can stabilize webSerial on Android</li>
@@ -462,7 +459,8 @@ Python generates the tflite file then a c-header file all zipped <br>
 <details  class="myDetails" closed> <summary>Script</summary>
 
 
-Google has the power to truly democratize machine learning at the edge. With minor tweaks to the TensorflowJS_Converter, training microcontrollers in the browser could become a reality on desktops, laptops, and even Android devices. Imagine millions of web developers having the ability to adapt machine learning models for physical world applications!
+Google has the power to truly democratize machine learning at the edge. Google can stabilize webSerial on Android. Google can make a lite TensorflowJS_converter in Javascript. Google can improve browser code flashing.  Google can brainstorm clientside compiling.
+Imagine millions of web developers having the ability to adapt machine learning models for physical world applications!
 </details>
 <hr>
 
