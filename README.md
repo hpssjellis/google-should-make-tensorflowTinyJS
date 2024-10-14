@@ -464,17 +464,14 @@ Python generates the tflite file then a c-header file all zipped <br>
 #### 12 
 ### Google Can democritize ML on Microcontrollers (1 of 2)
 
-Not yet mentioned.
+Reduce-Reuse-Recyle and the "Right to Repair". These concepts become much more 
+apparent when you have hundreds of micrcontrollers in your house and at work. 
+Their code changing every few months, companies going out of business, cloud sites charging
+more per month.
 
 <table border=1> <col style="width:50%"><col style="width:50%"><tr><td>
 
 
- <ol>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-</ol>
 </td><td>
  RocksettaTinyML machine learning code to be compiled <br>
  <video controls autoplay muted loop style="width:512px; height:288px;">
@@ -497,13 +494,13 @@ Not yet mentioned.
 
 
 #### 13 
-### Nearly Finished
+### TinyMLjs Proof of Concept
 
 
 
 <table border=1> <col style="width:50%"><col style="width:50%"><tr><td>
-TinyMLjs proves that the browser can train machine learning models and those models can be converted and installed on microcontrollers.
-
+TinyMLjs with RocksettaTinyML proves that the browser can train machine learning models and those models can be converted and installed on microcontrollers.
+There are issues that could streamlin the process, but solving thosee issues iwll take a wider community involvement beyond what I can do.
 
 </td><td>
 Replace the c-header file compile and test in the serial monitor <br>
@@ -527,12 +524,12 @@ I have a proof of concept that TensorFlowJS can be used to train the multitude o
 
 
 #### 14
-### Conclusion
+### TFJS with rtLite the new tfLite
 
 
 
 <table border=1> <col style="width:50%"><col style="width:50%"><tr><td>
-Let's start making rtLite and TensorflowJS work together in the browser. It can be done, just needs a community.
+Let's start making rtLite and TensorflowJS work together in the browser. It can be done, it just needs a community.
 
 </td><td>
 Also serial output can be tested in th browswer <br>
@@ -555,14 +552,14 @@ Developing TensorFlowTinyJS for local use on microcontrollers could democratize 
 
 
 #### 15 
-### Exit
+### Credits
 
 
 
 
 
 <table border=1> <col style="width:50%"><col style="width:50%"><tr><td>
-Exciting to be part of the TensorflowJS community that has so much potential for the future of ML.
+It is exciting to be part of the TensorflowJS community that has so much potential for the future of ML on Edge Devices.
 
 Thank you, by Jeremy Ellis<br><br>
 
@@ -582,13 +579,6 @@ Github: <a href="https://github.com/hpssjellis">github.com/hpssjellis</a>
 
 <details  class="myDetails" closed> <summary>Script</summary>
 
-I hope they call it something creative like TensorFlowTinyJS or TensorFlowJSMicro or...
-
-Thank you, by Jeremy Ellis 2024
-
-LinkedIn: https://www.linkedin.com/in/jeremy-ellis-4237a9bb/
-
-Github: https://github.com/hpssjellis
 
 </details>
 <hr>
