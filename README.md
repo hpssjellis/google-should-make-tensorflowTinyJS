@@ -353,7 +353,7 @@ WebSerial and TensorflowJS_Converter
   <li>A lite version of TensorflowJS_Converter written in Javascript is needede to make the c-header file </li>
 </ol>
 </td><td>
- Title <br>
+After training the model test it in the browser <br>
  <video controls autoplay muted loop style="width:512px; height:288px;">
      <source src="media/vid/a08-test-model.mp4" type="video/mp4" >
  </video>
@@ -383,7 +383,7 @@ Flashing from the browser and community code
 
 
 </td><td>
- Title <br>
+View and export model from TensorflowJS <br>
  <video controls autoplay muted loop style="width:512px; height:288px;">
      <source src="media/vid/a09-export-model.mp4" type="video/mp4">
  </video>
@@ -414,7 +414,7 @@ Do we even need a microcontroller IDE? Can the code be written from the browser 
 
 
 </td><td>
- Title <br>
+Load Python and use the TensorflowJS_Converter <br>
  <video controls autoplay muted loop style="width:512px; height:288px;">
      <source src="media/vid/a10-python-convert-to-c-header.mp4" type="video/mp4" >
  </video>
@@ -444,7 +444,7 @@ browser on desktop, laptop and Android phone. Google can democritize ML at the e
 
 
 </td><td>
- Title <br>
+Python generates the tflite file then a c-header file all zipped <br>
  <video controls autoplay muted loop style="width:512px; height:288px;">
      <source src="media/vid/a11-c-header.mp4" type="video/mp4" >
  </video>
