@@ -8,7 +8,7 @@ Fork this repo, fill in your markdown and <html> for the 15 slides (max 20 slide
 
 <table border=1><tr><td>
  This demo is viewed at <br><a href="https://hpssjellis.github.io/google-should-make-tensorflowTinyJS/">google-should-make-tensorflowTinyJS</a><br>
-<img src="https://github.com/user-attachments/assets/ee407d91-f0cf-48f0-9abc-d9af472372f8" width=250 />
+<img src="https://github.com/user-attachments/assets/ee407d91-f0cf-48f0-9abc-d9af472372f8" width=200 />
 </td><td>
  <video controls autoplay muted loop style="width:512px; height:288px;">
      <source src="media/tf-js-micro.mp4" type="video/mp4" >
@@ -20,7 +20,7 @@ Fork this repo, fill in your markdown and <html> for the 15 slides (max 20 slide
 
 Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Seconds per Slide: <input type="text" id="myCountMax" size="6" value="20" >
 
-<div id="myNumSlides" style=" position:sticky; top:0px; left:20px; height:25px; "> ...</div>  <br>
+<div id="myNumSlides" style=" position:sticky; top:0px; left:20px; height:25px; "> ...</div> 
 
   
 
