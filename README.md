@@ -141,20 +141,20 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Se
  </div>
 
 #### 1 
-### Jeremy Ellis
+### Exciting times for WebAI!
+TensorflowJS with TfMicro in the web browswer using WebSerial
 
+<table border=1><tr><td> 
 
-
-
-
-
-<table border=1><tr><td>
+We all know that TensorflowJS makes amazing Machine Learning models
+in the browswer using vision or sound but now we can start thinging about
+other sensors and real actuators using microcontrollers trained in the browser
  
-## 35 years as a coding teacher, including working on neural networks, Javascript and almost a decade on robotics, 3D printing and blender 3D animation.
+
 <br>
- Jeremy Ellis Github Profile at <br><a href="https://github.com/hpssjellis](https://github.com/hpssjellis">github.com/hpssjellis</a><br>
-<img src="https://github.com/user-attachments/assets/36fad8cf-1329-4bc1-b374-586b98aa2528" width=350 />
+
 </td><td>
+ Proof of concept Overview TinyMLjs<br>
  <video controls autoplay muted loop style="width:512px; height:288px;">
      <source src="media/vid/a01-tinyMLjs.mp4" type="video/mp4" >
  </video>
@@ -165,22 +165,25 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Se
 
 <details class="myDetails" closed> <summary>Script</summary>
 
-Hello, my name is Jeremy Ellis, and I have the unique talent of making every possible technological mistake a grade 10 student could make. This has made me a very understanding teacher, and I’ve been teaching technology for over 35 years.
 
-Back in the 1990s, I was experimenting with 3 layer, 8 node neural networks while most people were using "if" statements for AI. I manually changed the weights. My models never worked.
 
 </details>
 <hr>
 
 
 #### 2 
-### Tensorflow 
+### Why TensorflowJS?
 
 <table border=1><tr><td>
-
+<li>client-side</li>
+<li>Secure and Private</li>
+<li>Easier</li>
+<li>Community</li>
+<li>Total Control</li>
+<li></li>
 
 </td><td>
- Title <br>
+ Install Arduino IDE Library rocksettaTinyML a verison of TfMicro<br>
  <video controls autoplay muted loop style="width:512px; height:288px;">
      <source src="media/vid/a02-rocksettaTinyML.mp4" type="video/mp4" >
  </video>
@@ -190,24 +193,23 @@ Back in the 1990s, I was experimenting with 3 layer, 8 node neural networks whil
 
 <details class="myDetails"  closed> <summary>Script</summary>
 
-When TensorFlow launched in 2015, I saw a deep learning glimmer of hope. By 2018, I had become an expert in TensorFlowJS, and since then, I’ve been striving to master machine learning coding using TFmicro on the Arduino MBED Pro line and more recently, the SeeedStudio XIAO’s line of microcontrollers.
-
 </details>
 <hr>
 
 
 #### 3 
-### Proposal
-
-
-
-
+### Why TfMicro
 
 
 <table border=1><tr><td>
  
-<img src="https://github.com/user-attachments/assets/f5bda31b-6db5-47b2-a18a-ee7f41bec10f" width=300 />
-
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
 
 </td><td>
  Title <br>
@@ -221,7 +223,7 @@ When TensorFlow launched in 2015, I saw a deep learning glimmer of hope. By 2018
 
 <details  class="myDetails" closed> <summary>Script</summary>
 
-Today, I propose combining these two passions: TensorFlowJS and TFmicro. Web serial allows us to connect microcontrollers in the browser, merging these two Google-created technologies to create something encredibly powerful for the public, makers, education, and especially for economically disadvantaged students with poor internet and minimal ability to install software.
+
 
 
 </details>
