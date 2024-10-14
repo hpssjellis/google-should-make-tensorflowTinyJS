@@ -543,7 +543,8 @@ I have a proof of concept that TensorFlowJS can be used to train the multitude o
 
 
 <table border=1> <col style="width:50%"><col style="width:50%"><tr><td>
-Let's start making rtLite and TensorflowJS work together in the browser. It can be done, it just needs a community.
+Let's start making rtLite the new tf-micro and TensorflowJS work together in the browser. 
+ It can be done, it just needs a community and some interest from Google.
 
 </td><td>
 The ML serial output can be tested in the browser <br>
@@ -558,7 +559,8 @@ The ML serial output can be tested in the browser <br>
 <details  class="myDetails" closed> <summary>Script</summary>
 
 
-In conclusion, let’s work together to make rtLite (Tf-Micro) and TensorflowJS function seamlessly in the browser. We can do this. With the strength of the community, the future of machine learning at the edge is bright and full of possibilities.
+In conclusion, let’s work together to make rtLite (Tf-Micro) and TensorflowJS function seamlessly in the browser. We can do this. With the strength of the community, interest by Google, the future of machine learning at the edge is bright and full of possibilities. 
+
 
 
 
