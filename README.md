@@ -353,7 +353,7 @@ Microcontroller machine learning is hard to do, cloud based and constantly chang
 
 
 
-<table border=1><tr><td>
+
 
 
 
