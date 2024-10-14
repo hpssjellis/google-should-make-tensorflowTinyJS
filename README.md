@@ -202,7 +202,7 @@ using low cost microcontrollers doing ML at the edge all trained in the browser.
 ### Why TfMicro
 
 
-<table border=1><tr><td>
+<table border=1> <col style="width:50%"><col style="width:50%"><tr><td>
  
 <li>Millions of microcontrollers</li>
 <li>ML at the Edge</li>
@@ -236,7 +236,7 @@ using low cost microcontrollers doing ML at the edge all trained in the browser.
 
 Explaining the videos on the right side of the page.
 
-<table border=1><tr><td>
+<table border=1> <col style="width:50%"><col style="width:50%"><tr><td>
 <ol>
 <li>Install tf-Micro Arduino Library  "RocksettaTinyML"</li>
 <li>Compile and upload to mcu webSerial sensor code</li>
@@ -267,7 +267,7 @@ Explaining the videos on the right side of the page.
 
 
 
-<table border=1><tr><td>
+<table border=1> <col style="width:50%"><col style="width:50%"><tr><td>
 <ol>
 <li>Install or online load Python</li>
 <li>TensorflowJS_converter from TFJS to c-header file</li>
@@ -295,7 +295,7 @@ Connect the Microcontroller to the webpage using webSerial <br>
 ###  TinyMLjs Steps (3 of 3)
 
 
-<table border=1><tr><td>
+<table border=1> <col style="width:50%"><col style="width:50%"><tr><td>
 <ol>
 <li>RocksettaTinyML library examples Arduino Code</li>
 <li>Replace c-header file library</li>
@@ -328,7 +328,7 @@ Connect the Microcontroller to the webpage using webSerial <br>
 
 
 
-<table border=1><tr><td>
+<table border=1> <col style="width:50%"><col style="width:50%"><tr><td>
 
 </td><td>
  Title <br>
@@ -359,7 +359,7 @@ Connect the Microcontroller to the webpage using webSerial <br>
 
 
 
-<table border=1><tr><td>
+<table border=1> <col style="width:50%"><col style="width:50%"><tr><td>
  <ol>
   <li></li>
   <li></li>
@@ -388,7 +388,7 @@ Connect the Microcontroller to the webpage using webSerial <br>
 
 
 
-<table border=1><tr><td>
+<table border=1> <col style="width:50%"><col style="width:50%"><tr><td>
  <ol>
   <li></li>
   <li></li>
@@ -423,7 +423,7 @@ Connect the Microcontroller to the webpage using webSerial <br>
 
 
 
-<table border=1><tr><td>
+<table border=1> <col style="width:50%"><col style="width:50%"><tr><td>
 
  <ol>
   <li></li>
@@ -459,7 +459,7 @@ Do we even need a microcontroller IDE? Can the code be written client-side or an
 
 
 
-<table border=1><tr><td>
+<table border=1> <col style="width:50%"><col style="width:50%"><tr><td>
 Google can do it!
 
 </td><td>
@@ -489,7 +489,7 @@ using microcontrollers for the general public. Anyone is welcome to try to use t
 ###  Extras
 
 
-<table border=1><tr><td>
+<table border=1> <col style="width:50%"><col style="width:50%"><tr><td>
 
 
 </td><td>
@@ -518,7 +518,7 @@ using microcontrollers for the general public. Anyone is welcome to try to use t
 
 
 
-<table border=1><tr><td>
+<table border=1> <col style="width:50%"><col style="width:50%"><tr><td>
 TinyMLjs proves that the browser can train macine learning models and those models can be converted and installed on microcontrollers.
 
 
@@ -548,7 +548,7 @@ I have a proof of concept that TensorFlowJS can be used to train the multitude o
 
 
 
-<table border=1><tr><td>
+<table border=1> <col style="width:50%"><col style="width:50%"><tr><td>
 Let's start working on making rtLite and TensorflowJS working together in the browser. It can be done, just needs a community.
 
 </td><td>
@@ -578,7 +578,7 @@ Developing TensorFlowTinyJS for local use on microcontrollers could democratize 
 
 
 
-<table border=1><tr><td>
+<table border=1> <col style="width:50%"><col style="width:50%"><tr><td>
 Exciting to be part of the TensorflowJS commkunity that has so much potential for the future
 
 Thank you, by Jeremy Ellis
