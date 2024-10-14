@@ -404,13 +404,13 @@ Flashing from the browser and community code
 
 #### 10 
 ### Why Do we need the community and Google? (4 of 4)
-Advanced: compiling micr0controller code from the browser! <br><br>
+Advanced: compiling microcontroller code from the browser! <br><br>
 
 It’s good to remember Atwood’s Law: any application that can be written in JavaScript will eventually be written in JavaScript.
 
 <table border=1> <col style="width:50%"><col style="width:50%"><tr><td>
 
-Do we even need a microcontroller IDE? Can the code be written client-side or an image be saved and flashed directly to the microcontroller?
+Do we even need a microcontroller IDE? Can the code be written from the browser client-side or an image be saved and flashed directly to the microcontroller?
 
 
 </td><td>
