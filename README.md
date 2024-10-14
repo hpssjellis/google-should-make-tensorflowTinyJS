@@ -205,8 +205,8 @@ When TensorFlow launched in 2015, I saw a deep learning glimmer of hope. By 2018
 
 
 <table border=1><tr><td>
-![image](https://github.com/user-attachments/assets/f5bda31b-6db5-47b2-a18a-ee7f41bec10f)
-
+ 
+<img src="https://github.com/user-attachments/assets/f5bda31b-6db5-47b2-a18a-ee7f41bec10f" width=300 />
 
 
 </td><td>
@@ -437,9 +437,8 @@ Web serial is not as stable on Android. Google could probably solve that.
 
 <table border=1><tr><td>
 Flashing compiled code using webSerial over the browser.
-[ESP Online Flash Tool](https://jason2866.github.io/WebSerial_ESPTool/)<br>
-![image](https://github.com/user-attachments/assets/5620a834-a696-49b0-aec8-848ecb1cc28c)
-
+<a href="https://jason2866.github.io/WebSerial_ESPTool/">ESP Online Flash Tool </a> <br>
+<img src="https://github.com/user-attachments/assets/5620a834-a696-49b0-aec8-848ecb1cc28c" width=300 />
 
 Compiling MCU code in the browser.
 
@@ -594,9 +593,9 @@ Exciting to be part of the TensorflowJS commkunity that has so much potential fo
 
 Thank you, by Jeremy Ellis
 
-LinkedIn: https://www.linkedin.com/in/jeremy-ellis-4237a9bb/
+LinkedIn: <a href="https://www.linkedin.com/in/jeremy-ellis-4237a9bb/">jeremy-ellis-4237a9bb</a>
 
-Github: https://github.com/hpssjellis
+Github: <a href="https://github.com/hpssjellis">github.com/hpssjellis</a>
 
 </td><td>
  Title <br>
