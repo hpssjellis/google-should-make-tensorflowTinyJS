@@ -158,13 +158,14 @@ Welcome everyone! Today, we’ll explore the incredible potential of combining T
 ### Why TensorflowJS?
 
 <table border=1> <col style="width:50%"><col style="width:50%"><tr><td>
+ <ol>
 <li>client-side</li>
 <li>Secure and Private</li>
 <li>Easier for Education and Makers</li>
 <li>Community of Web Developers</li>
 <li>Total Control</li>
 <li>Version Control</li>
-
+ </ol>ol>
 </td><td>
  Install Arduino IDE Library rocksettaTinyML a verison of TfMicro<br>
  <video controls autoplay muted loop style="width:512px; height:288px;">
@@ -185,7 +186,7 @@ Why choose TensorflowJS for this approach? First, it's client-side, which means 
 
 
 <table border=1> <col style="width:50%"><col style="width:50%"><tr><td>
- 
+<ol> 
 <li>Millions of microcontrollers</li>
 <li>ML at the Edge</li>
 <li>Solves bandwidth</li>
@@ -193,7 +194,7 @@ Why choose TensorflowJS for this approach? First, it's client-side, which means 
 <li>Low Power</li>
 <li>Personal Solutions</li>
 <li>Low Cost $</li>
-
+</ol>
 </td><td>
  Connecting MCU to Browser with webSerial <br>
  <video controls autoplay muted loop style="width:512px; height:288px;">
@@ -312,11 +313,11 @@ The final step is replacing the C-header file in one of the RocksettaTinyML exam
 <table border=1> <col style="width:50%"><col style="width:50%"><tr><td>
 
  <ol>
-  <li>WebSerial on Android</li>
-  <li>TensorflowJS_Converter in Python</li>
-  <li>Flashing code to MCU from the Browser</li>
-  <li>Community written code for multitude of  mcu's </li>
-  <li>Advanced: code compiled in the browser?</li>
+  <li style="color:red">WebSerial barely works on Android</li>
+  <li style="color:red">TensorflowJS_Converter is written in Python</li>
+  <li style="color:red">Flashing code to MCU from the Browser only for the ESP boards</li>
+  <li style="color:red">No community written code for the multitude of mcu's </li>
+  <li style="color:red">Advanced: code can't yet be compiled in the browser client-side?</li>
 </ol>
 </td><td>
 Train the model in the browser <br>
@@ -431,7 +432,7 @@ Finally, we reach the ultimate goal: compiling microcontroller code directly in 
 
 
 #### 11
-### Google Can democritize ML on Microcontrollers (1 of 2)
+### Google Can democritize ML on Microcontrollers 
 
 
 
@@ -441,7 +442,13 @@ Google can help make micr0controller machine learning training possible in the
 browser on desktop, laptop and Android phone. Google can democritize ML at the edge
  with some minor changes to the TensorflowJS_Converter, which would allow millions 
  of web Developers the Power to adapt ML models for the physical world. 
-
+ 
+ <ol>
+  <li style="color:lime">Google can stabilize webSerial on Android</li>
+  <li style="color:lime">Google can make a lite TensorflowJS_converter in Javascript </li>
+  <li style="color:lime">Google can improve browser code flashing</li>
+  <li style="color:lime">Google can brainstorm clientside compiling</li>
+</ol>
 
 </td><td>
 Python generates the tflite file then a c-header file all zipped <br>
