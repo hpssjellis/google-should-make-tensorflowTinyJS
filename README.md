@@ -328,12 +328,7 @@ Connect the Microcontroller to the webpage using webSerial <br>
 
 
 <table border=1><tr><td>
- <ol>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-</ol>
+
 </td><td>
  Title <br>
  <video controls autoplay muted loop style="width:512px; height:288px;">
@@ -345,7 +340,7 @@ Connect the Microcontroller to the webpage using webSerial <br>
 
 <details  class="myDetails" closed> <summary>Script</summary>
 
-TensorFlowJS, on the other hand, offers ease of use, client-side security, privacy, simplicity, power, and a very solid NPM based version control. My ML webpages made six years ago still typically work as intended. The many positives for TFJS have given it a very strong user base, but most web ML solutions stay on the web and have little impact on the real world.
+
 
 
 </details>
@@ -354,7 +349,7 @@ TensorFlowJS, on the other hand, offers ease of use, client-side security, priva
 
 
 #### 8 
-### The Steps (TinyMLjs)
+### Why Do we need the community and Google? (2 of 4)
 
 
 
@@ -364,15 +359,12 @@ TensorFlowJS, on the other hand, offers ease of use, client-side security, priva
 
 
 <table border=1><tr><td>
-<ol>
-  <li> Load serial monitor input-output C++ code using your favorite microcontroller IDE. </li>
-  <li> Connect the microcontroller to the browser using webSerial. </li>
-  <li> Send sensor data to the browser. </li>
-  <li> Train an ML model. </li>
-  <li> Using TensorflowJS_converter installed using Python convert the model from TFJS to TFlite, then to a C-header file using xxd. </li>
-  <li> Put that C-header file into working C++ code using your IDE, compile and flash it to the microcontroller. </li>
+ <ol>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
 </ol>
-
 </td><td>
  Title <br>
  <video controls autoplay muted loop style="width:512px; height:288px;">
@@ -384,28 +376,24 @@ TensorFlowJS, on the other hand, offers ease of use, client-side security, priva
 
 
 <details  class="myDetails" closed> <summary>Script</summary>
-<ol>
-  <li> Load serial monitor input-output C++ code using your favorite microcontroller IDE. </li>
-  <li> Connect the microcontroller to the browser using webSerial. </li>
-  <li> Send sensor data to the browser. </li>
-  <li> Train an ML model. </li>
-  <li> Using TensorflowJS_converter installed using Python convert the model from TFJS to TFlite, then to a C-header file using xxd. </li>
-  <li> Put that C-header file into working C++ code using your IDE, compile and flash it to the microcontroller. </li>
-</ol>
+
 </details>
 <hr>
 
 
 
 #### 9 
-###  The small print (Issues)
+### Why Do we need the community and Google? (3 of 4)
 
 
 
 <table border=1><tr><td>
-TensorflowJS_converter only works using python on from a cloud site.
-
-WebUSB/WebSerial not stable on Android
+ <ol>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+</ol>
 
 
 </td><td>
@@ -421,12 +409,6 @@ WebUSB/WebSerial not stable on Android
 <details  class="myDetails" closed> <summary>Script</summary>
 
 
-So, if I’ve solved the issue, why involve Google? Here are a few reasons:
-
-The TensorFlowJS converter is written in Python, which means people have to install Python. If you must and are able to install Python, why not just stay with Python? We need a simplified TensorflowJS-converter written in Javascript. I can’t do that.
-
-Web serial is not as stable on Android. Google could probably solve that.
-
 
 
 </details>
@@ -435,17 +417,19 @@ Web serial is not as stable on Android. Google could probably solve that.
 
 
 #### 10 
-### The advanced Issues
+### Why Do we need the community and Google? (4 of 4)
 
 
 
 
 <table border=1><tr><td>
-Flashing compiled code using webSerial over the browser.
-<a href="https://jason2866.github.io/WebSerial_ESPTool/">ESP Online Flash Tool </a> <br>
-<img src="https://github.com/user-attachments/assets/5620a834-a696-49b0-aec8-848ecb1cc28c" width=300 />
 
-Compiling MCU code in the browser.
+ <ol>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+</ol>
 
 </td><td>
  Title <br>
