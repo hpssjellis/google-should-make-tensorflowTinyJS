@@ -6,7 +6,7 @@ Fork this repo, fill in your markdown and <html> for the 15 slides (max 20 slide
  
 
 
-<table border=1> <col style="width:30%"><col style="width:70%"><tr><td>
+<table border=1> <col style="width:50%"><col style="width:50%"><tr><td>
  This demo is viewed at <br><a href="https://hpssjellis.github.io/google-should-make-tensorflowTinyJS/">google-should-make-tensorflowTinyJS</a><br>
 <img src="https://github.com/user-attachments/assets/ee407d91-f0cf-48f0-9abc-d9af472372f8" width=200 />
 </td><td>
@@ -144,7 +144,7 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Se
 ### Exciting times for WebAI!
 TensorflowJS with TfMicro in the web browswer using WebSerial
 
-<table border=1> <col style="width:30%"><col style="width:70%"><tr><td>
+<table border=1> <col style="width:50%"><col style="width:50%"><tr><td>
 
 We all know that TensorflowJS makes amazing Machine Learning models
 in the browswer using vision or sound but now we can start thinging about
@@ -174,7 +174,7 @@ other sensors and real actuators using microcontrollers trained in the browser
 #### 2 
 ### Why TensorflowJS?
 
-<table border=1> <col style="width:30%"><col style="width:70%"><tr><td>
+<table border=1> <col style="width:50%"><col style="width:50%"><tr><td>
 <li>client-side</li>
 <li>Secure and Private</li>
 <li>Easier</li>
@@ -323,13 +323,17 @@ Connect the Microcontroller to the webpage using webSerial <br>
 
 
 #### 7 
-### Why TensoflowJS
+### Why Do we need the community and Google? (1 of 4)
 
 
 
 <table border=1><tr><td>
-
-
+ <ol>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+</ol>
 </td><td>
  Title <br>
  <video controls autoplay muted loop style="width:512px; height:288px;">
