@@ -526,9 +526,7 @@ Replace the c-header file compile and test in the serial monitor <br>
 
 <details  class="myDetails" closed> <summary>Script</summary>
 
-We’re nearly there. TinyMLjs has shown that browser-based machine learning works, and it’s capable of training models that can then be converted and deployed to microcontrollers. This opens the door to countless possibilities
-
-
+We’re nearly there. TinyMLjs has shown that browser-based machine learning works, and it’s capable of training models that can then be converted and deployed to microcontrollers. This opens the door to countless possibilities.
 
 I have a proof of concept that TensorFlowJS can be used to train the multitude of low-power, low-cost microcontrollers, giving power, privacy, freedom, and stability to everyone in this fast-changing world of microcontroller cloud costs and unstable software. Let’s be a part of using the greatest combination of Google frameworks: TensorFlowJS with TensorFlowMicro. As MCU become more common our right to repair in a simplified way becomes more important.
 
@@ -540,7 +538,7 @@ I have a proof of concept that TensorFlowJS can be used to train the multitude o
 
 
 #### 14
-### TFJS with rtLite the new tfLite
+### TFJS with rtLite the new tfLite/Micro
 
 
 
@@ -548,7 +546,7 @@ I have a proof of concept that TensorFlowJS can be used to train the multitude o
 Let's start making rtLite and TensorflowJS work together in the browser. It can be done, it just needs a community.
 
 </td><td>
-Also serial output can be tested in th browswer <br>
+The ML serial output can be tested in the browser <br>
  <video controls autoplay muted loop style="width:512px; height:288px;">
      <source src="media/vid/a14-webserial-test.mp4" type="video/mp4" >
  </video>
@@ -560,7 +558,7 @@ Also serial output can be tested in th browswer <br>
 <details  class="myDetails" closed> <summary>Script</summary>
 
 
-In conclusion, let’s work together to make rtLite and TensorflowJS function seamlessly in the browser. We can do this. With the strength of the community, the future of machine learning at the edge is bright and full of possibilities.
+In conclusion, let’s work together to make rtLite (Tf-Micro) and TensorflowJS function seamlessly in the browser. We can do this. With the strength of the community, the future of machine learning at the edge is bright and full of possibilities.
 
 
 
