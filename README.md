@@ -178,10 +178,10 @@ using low cost microcontrollers doing ML at the edge all trained in the browser.
 <table border=1> <col style="width:50%"><col style="width:50%"><tr><td>
 <li>client-side</li>
 <li>Secure and Private</li>
-<li>Easier</li>
-<li>Community</li>
+<li>Easier for Education and Makers</li>
+<li>Community of Web Developers</li>
 <li>Total Control</li>
-<li></li>
+<li>Version Control</li>
 
 </td><td>
  Install Arduino IDE Library rocksettaTinyML a verison of TfMicro<br>
@@ -210,7 +210,7 @@ using low cost microcontrollers doing ML at the edge all trained in the browser.
 <li>Low Energy</li>
 <li>Low Power</li>
 <li>Personal Solutions</li>
-<li>Low Cost $$</li>
+<li>Low Cost $</li>
 
 </td><td>
  Connecting MCU to Browser with webSerial <br>
@@ -430,12 +430,6 @@ It’s good to remember Atwood’s Law: any application that can be written in J
 
 Do we even need a microcontroller IDE? Can the code be written client-side or an image be saved and flashed directly to the microcontroller?
 
- <ol>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-</ol>
 
 </td><td>
  Title <br>
@@ -455,14 +449,17 @@ Do we even need a microcontroller IDE? Can the code be written client-side or an
 
 
 #### 11
-### Google has the Power
-
+### Google Can democritize ML on Microcontrollers (1 of 2)
 
 
 
 
 <table border=1> <col style="width:50%"><col style="width:50%"><tr><td>
-Google can do it!
+Google can help make micr0controller machine learning training possible in the 
+browser on desktop, laptop and Android phone. Google can democritize ML at the edge
+ with some minor changes to the TensorflowJS_Converter, which would allow millions 
+ of web Developers the Power to adapt ML models for the physical world. 
+
 
 </td><td>
  Title <br>
@@ -475,12 +472,7 @@ Google can do it!
 
 <details  class="myDetails" closed> <summary>Script</summary>
 
-Google has the power to maintain and make this available to everyone. 
 
-
-
-Reminder tensorflowJS combined with TensorflowMicro does not have to work for all ML models and all microcontrollers. It needs to be able to simplify
-using microcontrollers for the general public. Anyone is welcome to try to use the most optimized Python or C++ methods to work on more advanced microcontroller machine learning 
 
 </details>
 <hr>
@@ -488,14 +480,21 @@ using microcontrollers for the general public. Anyone is welcome to try to use t
 
 
 #### 12 
-###  Extras
+### Google Can democritize ML on Microcontrollers (1 of 2)
 
+Not yet mentioned.
 
 <table border=1> <col style="width:50%"><col style="width:50%"><tr><td>
 
 
+ <ol>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+</ol>
 </td><td>
- Title <br>
+ RocksettaTinyML machine learning code to be compiled <br>
  <video controls autoplay muted loop style="width:512px; height:288px;">
      <source src="media/vid/a12-rocksettaTinyML-ml-file.mp4" type="video/mp4" >
  </video>
@@ -525,7 +524,7 @@ TinyMLjs proves that the browser can train macine learning models and those mode
 
 
 </td><td>
- Title <br>
+Replace the c-header file compile and test in the serial monitor <br>
  <video controls autoplay muted loop style="width:512px; height:288px;">
      <source src="media/vid/a13-compile-and-text.mp4" type="video/mp4" >
  </video>
@@ -554,7 +553,7 @@ I have a proof of concept that TensorFlowJS can be used to train the multitude o
 Let's start working on making rtLite and TensorflowJS working together in the browser. It can be done, just needs a community.
 
 </td><td>
- Title <br>
+Also serial output can be tested in th browswer <br>
  <video controls autoplay muted loop style="width:512px; height:288px;">
      <source src="media/vid/a14-webserial-test.mp4" type="video/mp4" >
  </video>
