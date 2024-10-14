@@ -6,7 +6,7 @@ Fork this repo, fill in your markdown and <html> for the 15 slides (max 20 slide
  
 
 
-<table border=1><tr><td>
+<table border=1> <col style="width:30%"><col style="width:70%"><tr><td>
  This demo is viewed at <br><a href="https://hpssjellis.github.io/google-should-make-tensorflowTinyJS/">google-should-make-tensorflowTinyJS</a><br>
 <img src="https://github.com/user-attachments/assets/ee407d91-f0cf-48f0-9abc-d9af472372f8" width=200 />
 </td><td>
@@ -144,7 +144,7 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Se
 ### Exciting times for WebAI!
 TensorflowJS with TfMicro in the web browswer using WebSerial
 
-<table border=1><tr><td> 
+<table border=1> <col style="width:30%"><col style="width:70%"><tr><td>
 
 We all know that TensorflowJS makes amazing Machine Learning models
 in the browswer using vision or sound but now we can start thinging about
@@ -174,7 +174,7 @@ other sensors and real actuators using microcontrollers trained in the browser
 #### 2 
 ### Why TensorflowJS?
 
-<table border=1><tr><td>
+<table border=1> <col style="width:30%"><col style="width:70%"><tr><td>
 <li>client-side</li>
 <li>Secure and Private</li>
 <li>Easier</li>
@@ -314,8 +314,6 @@ Connect the Microcontroller to the webpage using webSerial <br>
  
 <details  class="myDetails" closed> <summary>Script</summary>
 
-TensorFlowJS, on the other hand, offers ease of use, client-side security, privacy, simplicity, power, and a very solid NPM based version control. My ML webpages made six years ago still typically work as intended. The many positives for TFJS have given it a very strong user base, but most web ML solutions stay on the web and have little impact on the real world.
-
 
 
 
@@ -325,19 +323,11 @@ TensorFlowJS, on the other hand, offers ease of use, client-side security, priva
 
 
 #### 7 
-### The Solution
+### Why TensoflowJS
 
 
 
 <table border=1><tr><td>
-TinyMLjs
-
-My Proof of concepts TinyMLjs 
-
-[https://hpssjellis.github.io/tinyMLjs/public/acceleration/a00-best-acceleration.html](https://hpssjellis.github.io/tinyMLjs/public/acceleration/a00-best-acceleration.html)
-
-
-Combine TensorFlowJS with TensorFlowMicro. That’s what I’ve done with TinyMLJS using the Arduino Nano33Ble-Sense. I have a Github example I call TinyMLjs.
 
 
 </td><td>
@@ -351,8 +341,7 @@ Combine TensorFlowJS with TensorFlowMicro. That’s what I’ve done with TinyML
 
 <details  class="myDetails" closed> <summary>Script</summary>
 
-Microcontroller machine learning is hard to do, cloud based and constantly changing. TFJS is easier and stable but lacks real-world power.
-
+TensorFlowJS, on the other hand, offers ease of use, client-side security, privacy, simplicity, power, and a very solid NPM based version control. My ML webpages made six years ago still typically work as intended. The many positives for TFJS have given it a very strong user base, but most web ML solutions stay on the web and have little impact on the real world.
 
 
 </details>
@@ -645,7 +634,7 @@ Github: https://github.com/hpssjellis
 
 
 
-### By Jeremy Ellis Twitter <a href="https://ca.linkedin.com/in/jeremy-ellis-4237a9bb">jeremy-ellis-4237a9bb</a> Use at your own Risk!
+### By Jeremy Ellis LinkedIn <a href="https://ca.linkedin.com/in/jeremy-ellis-4237a9bb">jeremy-ellis-4237a9bb</a> Use at your own Risk!
 ### Note the github for this page, with markdown and javascript is at [https://github.com/hpssjellis/google-should-make-tensorflowTinyJS](https://github.com/hpssjellis/google-should-make-tensorflowTinyJS) 
 
 A blank template repository for you to make your own presentations is at [https://github.com/hpssjellis/pecha-kucha-lightning-talks-template](https://github.com/hpssjellis/pecha-kucha-lightning-talks-template)
