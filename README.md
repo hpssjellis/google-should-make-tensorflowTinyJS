@@ -155,8 +155,8 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Se
  Jeremy Ellis Github Profile at <br><a href="https://github.com/hpssjellis](https://github.com/hpssjellis">github.com/hpssjellis</a><br>
 <img src="https://github.com/user-attachments/assets/36fad8cf-1329-4bc1-b374-586b98aa2528" width=350 />
 </td><td>
- <video controls autoplay muted loop style="width:400px; height:300px;">
-     <source src="media/vid/a01-tinyMLjs.mp4" type="video/mp4" width="400px" height="300px">
+ <video controls autoplay muted loop style="width:512px; height:288px;">
+     <source src="media/vid/a01-tinyMLjs.mp4" type="video/mp4" >
  </video>
  </td></tr>
  </table>
@@ -181,8 +181,8 @@ Back in the 1990s, I was experimenting with 3 layer, 8 node neural networks whil
 
 </td><td>
  Title <br>
- <video controls autoplay muted loop style="width:400px; height:300px;">
-     <source src="media/vid/a02-rocksettaTinyML.mp4" type="video/mp4" width="400px" height="300px">
+ <video controls autoplay muted loop style="width:512px; height:288px;">
+     <source src="media/vid/a02-rocksettaTinyML.mp4" type="video/mp4" >
  </video>
  </td></tr>
  </table>
@@ -211,8 +211,8 @@ When TensorFlow launched in 2015, I saw a deep learning glimmer of hope. By 2018
 
 </td><td>
  Title <br>
- <video controls autoplay muted loop style="width:400px; height:300px;">
-     <source src="media/vid/a03-compile-webserial.mp4" type="video/mp4" width="400px" height="300px">
+ <video controls autoplay muted loop style="width:512px; height:288px;">
+     <source src="media/vid/a03-compile-webserial.mp4" type="video/mp4">
  </video>
  </td></tr>
  </table>
@@ -238,8 +238,8 @@ Today, I propose combining these two passions: TensorFlowJS and TFmicro. Web ser
 
 </td><td>
  Title <br>
- <video controls autoplay muted loop style="width:400px; height:300px;">
-     <source src="media/vid/a04-close-arduino.mp4" type="video/mp4" width="400px" height="300px">
+ <video controls autoplay muted loop style="width:512px; height:288px;">
+     <source src="media/vid/a04-close-arduino.mp4" type="video/mp4" >
  </video>
  </td></tr>
  </table>
@@ -264,8 +264,8 @@ Working with Microcontrollers has a lot of issues:
 
 </td><td>
  Title <br>
- <video controls autoplay muted loop style="width:400px; height:300px;">
-     <source src="media/vid/a05-connect-webserial.mp4" type="video/mp4" width="400px" height="300px">
+ <video controls autoplay muted loop style="width:512px; height:288px;">
+     <source src="media/vid/a05-connect-webserial.mp4" type="video/mp4">
  </video>
  </td></tr>
  </table>
@@ -291,8 +291,8 @@ TensorflowJS solves a lot of the issues microcontrollers have:
 
 </td><td>
  Title <br>
- <video controls autoplay muted loop style="width:400px; height:300px;">
-     <source src="media/vid/a06-data.mp4" type="video/mp4" width="400px" height="300px">
+ <video controls autoplay muted loop style="width:512px; height:288px;">
+     <source src="media/vid/a06-data.mp4" type="video/mp4" >
  </video>
  </td></tr>
  </table>
@@ -330,8 +330,8 @@ Combine TensorFlowJS with TensorFlowMicro. That’s what I’ve done with TinyML
 
 </td><td>
  Title <br>
- <video controls autoplay muted loop style="width:400px; height:300px;">
-     <source src="media/vid/a07-train.mp4" type="video/mp4" width="400px" height="300px">
+ <video controls autoplay muted loop style="width:512px; height:288px;">
+     <source src="media/vid/a07-train.mp4" type="video/mp4">
  </video>
  </td></tr>
  </table>
@@ -370,8 +370,8 @@ Microcontroller machine learning is hard to do, cloud based and constantly chang
 
 </td><td>
  Title <br>
- <video controls autoplay muted loop style="width:400px; height:300px;">
-     <source src="media/vid/a08-test-model.mp4" type="video/mp4" width="400px" height="300px">
+ <video controls autoplay muted loop style="width:512px; height:288px;">
+     <source src="media/vid/a08-test-model.mp4" type="video/mp4" >
  </video>
  </td></tr>
  </table>
@@ -405,8 +405,8 @@ WebUSB/WebSerial not stable on Android
 
 </td><td>
  Title <br>
- <video controls autoplay muted loop style="width:400px; height:300px;">
-     <source src="media/vid/a09-export-model.mp4" type="video/mp4" width="400px" height="300px">
+ <video controls autoplay muted loop style="width:512px; height:288px;">
+     <source src="media/vid/a09-export-model.mp4" type="video/mp4">
  </video>
  </td></tr>
  </table>
@@ -444,8 +444,8 @@ Compiling MCU code in the browser.
 
 </td><td>
  Title <br>
- <video controls autoplay muted loop style="width:400px; height:300px;">
-     <source src="media/vid/a10-python-convert-to-c-header.mp4" type="video/mp4" width="400px" height="300px">
+ <video controls autoplay muted loop style="width:512px; height:288px;">
+     <source src="media/vid/a10-python-convert-to-c-header.mp4" type="video/mp4" >
  </video>
  </td></tr>
  </table>
@@ -474,8 +474,8 @@ Google can do it!
 
 </td><td>
  Title <br>
- <video controls autoplay muted loop style="width:400px; height:300px;">
-     <source src="media/vid/a11-c-header.mp4" type="video/mp4" width="400px" height="300px">
+ <video controls autoplay muted loop style="width:512px; height:288px;">
+     <source src="media/vid/a11-c-header.mp4" type="video/mp4" >
  </video>
  </td></tr>
  </table>
@@ -504,8 +504,8 @@ using microcontrollers for the general public. Anyone is welcome to try to use t
 
 </td><td>
  Title <br>
- <video controls autoplay muted loop style="width:400px; height:300px;">
-     <source src="media/vid/a12-rocksettaTinyML-ml-file.mp4" type="video/mp4" width="400px" height="300px">
+ <video controls autoplay muted loop style="width:512px; height:288px;">
+     <source src="media/vid/a12-rocksettaTinyML-ml-file.mp4" type="video/mp4" >
  </video>
  </td></tr>
  </table>
@@ -534,8 +534,8 @@ TinyMLjs proves that the browser can train macine learning models and those mode
 
 </td><td>
  Title <br>
- <video controls autoplay muted loop style="width:400px; height:300px;">
-     <source src="media/vid/a13-compile-and-text.mp4" type="video/mp4" width="400px" height="300px">
+ <video controls autoplay muted loop style="width:512px; height:288px;">
+     <source src="media/vid/a13-compile-and-text.mp4" type="video/mp4" >
  </video>
  </td></tr>
  </table>
@@ -563,8 +563,8 @@ Let's start working on making rtLite and TensorflowJS working together in the br
 
 </td><td>
  Title <br>
- <video controls autoplay muted loop style="width:400px; height:300px;">
-     <source src="media/vid/a14-webserial-test.mp4" type="video/mp4" width="400px" height="300px">
+ <video controls autoplay muted loop style="width:512px; height:288px;">
+     <source src="media/vid/a14-webserial-test.mp4" type="video/mp4" >
  </video>
  </td></tr>
  </table>
@@ -599,8 +599,8 @@ Github: <a href="https://github.com/hpssjellis">github.com/hpssjellis</a>
 
 </td><td>
  Title <br>
- <video controls autoplay muted loop style="width:400px; height:300px;">
-     <source src="media/tf-js-micro.mp4" type="video/mp4" width="400px" height="300px">
+ <video controls autoplay muted loop style="width:512px; height:288px;">
+     <source src="media/tf-js-micro.mp4" type="video/mp4" >
  </video>
  </td></tr>
  </table>
