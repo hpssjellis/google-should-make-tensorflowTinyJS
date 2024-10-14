@@ -325,11 +325,17 @@ Connect the Microcontroller to the webpage using webSerial <br>
 
 #### 7 
 ### Why Do we need the community and Google? (1 of 4)
-
-
+## General
 
 <table border=1> <col style="width:50%"><col style="width:50%"><tr><td>
 
+ <ol>
+  <li>WebSerial on Android</li>
+  <li>TensorflowJS_Converter in Python</li>
+  <li>Flashing code to MCU from the Browser</li>
+  <li>Community written code for multitude of  mcu's </li>
+  <li>Advanced: code compiled in the browser?</li>
+</ol>
 </td><td>
  Title <br>
  <video controls autoplay muted loop style="width:512px; height:288px;">
@@ -351,7 +357,7 @@ Connect the Microcontroller to the webpage using webSerial <br>
 
 #### 8 
 ### Why Do we need the community and Google? (2 of 4)
-
+WebSerial and TensorflowJS_Converter
 
 
 
@@ -361,10 +367,8 @@ Connect the Microcontroller to the webpage using webSerial <br>
 
 <table border=1> <col style="width:50%"><col style="width:50%"><tr><td>
  <ol>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>WebSerial/WebUSB needs to be stable on Android so all of this can be done from your cell phone</li>
+  <li>A lite version of TensorflowJS_Converter written in Javascript is needede to make the c-header file </li>
 </ol>
 </td><td>
  Title <br>
@@ -385,15 +389,14 @@ Connect the Microcontroller to the webpage using webSerial <br>
 
 #### 9 
 ### Why Do we need the community and Google? (3 of 4)
-
+Flashing from the browser and community code
 
 
 <table border=1> <col style="width:50%"><col style="width:50%"><tr><td>
  <ol>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>The <a href="https://jason2866.github.io/WebSerial_ESPTool/">ESP online tool</a> can flash compiled code in the browser</li>
+  <li>That ability needs to be able to be done on multiple mcu's</li>
+  <li>The community can write the C++ code needed for the multitude of different mcu's sensors and actuators</li>
 </ol>
 
 
@@ -419,11 +422,13 @@ Connect the Microcontroller to the webpage using webSerial <br>
 
 #### 10 
 ### Why Do we need the community and Google? (4 of 4)
+Advanced: compiling micr0controller code from the browser! <br><br>
 
-
-
+It’s good to remember Atwood’s Law: any application that can be written in JavaScript will eventually be written in JavaScript.
 
 <table border=1> <col style="width:50%"><col style="width:50%"><tr><td>
+
+Do we even need a microcontroller IDE? Can the code be written client-side or an image be saved and flashed directly to the microcontroller?
 
  <ol>
   <li></li>
@@ -443,9 +448,6 @@ Connect the Microcontroller to the webpage using webSerial <br>
 
 <details  class="myDetails" closed> <summary>Script</summary>
 
-Flashing code from the browser is possible as proven by esp online but not yet developed for all microcontrollers.
-
-Do we even need a microcontroller IDE? Can the code be written client-side or an image be saved and flashed directly to the microcontroller?
 
 </details>
 <hr>
@@ -475,7 +477,7 @@ Google can do it!
 
 Google has the power to maintain and make this available to everyone. 
 
-It’s good to remember Atwood’s Law: any application that can be written in JavaScript will eventually be written in JavaScript.
+
 
 Reminder tensorflowJS combined with TensorflowMicro does not have to work for all ML models and all microcontrollers. It needs to be able to simplify
 using microcontrollers for the general public. Anyone is welcome to try to use the most optimized Python or C++ methods to work on more advanced microcontroller machine learning 
