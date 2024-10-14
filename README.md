@@ -148,7 +148,7 @@ using low cost microcontrollers doing ML at the edge all trained in the browser.
 
 <details class="myDetails" closed> <summary>Script</summary>
 
-
+Welcome everyone! Today, we’ll explore the incredible potential of combining TensorflowJS with TfMicro and WebSerial. You may already know how powerful TensorflowJS is when it comes to in-browser machine learning models for vision and sound. But now, we are pushing the boundaries. Imagine training sensors and actuators in real-time—using low-cost microcontrollers—all within the browser. Let’s dive into this exciting shift in edge computing!
 
 </details>
 <hr>
@@ -175,7 +175,7 @@ using low cost microcontrollers doing ML at the edge all trained in the browser.
 
 
 <details class="myDetails"  closed> <summary>Script</summary>
-
+Why choose TensorflowJS for this approach? First, it's client-side, which means no data needs to leave your device—ensuring both privacy and security. It’s also perfect for education and maker communities because it's simple to use. Plus, you have full control over the process, with robust version management and support from a massive community of web developers.
 </details>
 <hr>
 
@@ -207,7 +207,7 @@ using low cost microcontrollers doing ML at the edge all trained in the browser.
 <details  class="myDetails" closed> <summary>Script</summary>
 
 
-
+And why TfMicro? The ability to run machine learning on millions of microcontrollers brings ML to the edge. It solves common bandwidth problems by processing data locally, with minimal energy consumption. These microcontrollers offer low-power, affordable solutions—making this approach accessible for personal projects as well as commercial applications.
 
 </details>
 <hr>
@@ -238,7 +238,7 @@ Explaining the videos on the right side of the page.
 
 <details  class="myDetails" closed> <summary>Script</summary>
 
-
+Let’s talk about how to use TinyMLjs with TfMicro. Step one: install the 'RocksettaTinyML' library, compile the sensor code, and upload it to your microcontroller using WebSerial. Once that’s done, generate your sensor data, train the model right in your browser, test it, and then export the final model. Simple and efficient!
 
 </details>
 <hr>
@@ -267,7 +267,7 @@ Connect the Microcontroller to the webpage using webSerial <br>
 
 
 <details  class="myDetails" closed> <summary>Script</summary>
-
+In step two, you’ll need Python installed or loaded online. Then, use TensorflowJS_Converter to convert your trained model into a C-header file, which your microcontroller can then use.
 </details>
 <hr>
 
@@ -298,7 +298,7 @@ Connect the Microcontroller to the webpage using webSerial <br>
 <details  class="myDetails" closed> <summary>Script</summary>
 
 
-
+The final step is replacing the C-header file in one of the RocksettaTinyML examples. Compile, upload, and test your code via the serial monitor, or optionally, you can even test the model again in the browser.
 
 </details>
 <hr>
@@ -329,7 +329,7 @@ Train the model in the browser <br>
 
 <details  class="myDetails" closed> <summary>Script</summary>
 
-
+Now, why do we need support from the community and Google? First, WebSerial on Android is key, along with a stable TensorflowJS_Converter in Python. Flashing code directly from the browser will make it easier to support a wide range of microcontrollers. Imagine if we could even compile code right in the browser. These innovations are only possible with strong community and corporate support
 
 
 </details>
@@ -363,7 +363,7 @@ After training the model test it in the browser <br>
 
 
 <details  class="myDetails" closed> <summary>Script</summary>
-
+For WebSerial and TensorflowJS_Converter to reach their full potential, they need to be stable on Android. Additionally, a lightweight version of TensorflowJS_Converter written in Java would make generating C-header files much easier for developers.
 </details>
 <hr>
 
@@ -395,7 +395,7 @@ View and export model from TensorflowJS <br>
 <details  class="myDetails" closed> <summary>Script</summary>
 
 
-
+The ESP tool already allows us to flash code directly from the browser, but we need to expand that capability to other MCUs. The community is essential in developing C++ code that will support a wide range of microcontrollers, sensors, and actuators.
 
 </details>
 <hr>
@@ -423,7 +423,7 @@ Load Python and use the TensorflowJS_Converter <br>
 
 
 <details  class="myDetails" closed> <summary>Script</summary>
-
+Finally, we reach the ultimate goal: compiling microcontroller code directly in the browser. Following Atwood’s Law, any application that can be written in Java eventually will be. Do we even need a dedicated IDE anymore? Could all this be done from within the browser itself?
 
 </details>
 <hr>
@@ -455,7 +455,7 @@ Python generates the tflite file then a c-header file all zipped <br>
 <details  class="myDetails" closed> <summary>Script</summary>
 
 
-
+Google has the power to truly democratize machine learning at the edge. With minor tweaks to the TensorflowJS_Converter, training microcontrollers in the browser could become a reality on desktops, laptops, and even Android devices. Imagine millions of web developers having the ability to adapt machine learning models for physical world applications!
 </details>
 <hr>
 
@@ -484,7 +484,7 @@ more per month.
 
 <details  class="myDetails" closed> <summary>Script</summary>
 
-
+By providing the right tools, Google could revolutionize how we interact with machine learning at the edge, simplifying workflows and empowering developers.
 
 </details>
 <hr>
@@ -513,6 +513,10 @@ Replace the c-header file compile and test in the serial monitor <br>
 
 
 <details  class="myDetails" closed> <summary>Script</summary>
+
+We’re nearly there. TinyMLjs has shown that browser-based machine learning works, and it’s capable of training models that can then be converted and deployed to microcontrollers. This opens the door to countless possibilities
+
+
 
 I have a proof of concept that TensorFlowJS can be used to train the multitude of low-power, low-cost microcontrollers, giving power, privacy, freedom, and stability to everyone in this fast-changing world of microcontroller cloud costs and unstable software. Let’s be a part of using the greatest combination of Google frameworks: TensorFlowJS with TensorFlowMicro. As MCU become more common our right to repair in a simplified way becomes more important.
 
@@ -543,6 +547,11 @@ Also serial output can be tested in th browswer <br>
 
 <details  class="myDetails" closed> <summary>Script</summary>
 
+
+In conclusion, let’s work together to make rtLite and TensorflowJS function seamlessly in the browser. We can do this. With the strength of the community, the future of machine learning at the edge is bright and full of possibilities.
+
+
+
 Developing TensorFlowTinyJS for local use on microcontrollers could democratize ML, making it accessible and practical for a wide range of people and applications. While there are challenges, the benefits of local execution, data security, Javascript simpicity and offline capability make it a compelling endeavor. The anticipated growth in ML-capable microcontrollers underscores the importance of such a development.
 
 </details>
@@ -559,6 +568,11 @@ Developing TensorFlowTinyJS for local use on microcontrollers could democratize 
 
 
 <table border=1> <col style="width:50%"><col style="width:50%"><tr><td>
+
+ Thank you all for being here today. It’s an exciting time to be part of the TensorflowJS community, and I’m thrilled to be on this journey with you. Let’s keep pushing the limits of what’s possible!
+
+
+ 
 It is exciting to be part of the TensorflowJS community that has so much potential for the future of ML on Edge Devices.
 
 Thank you, by Jeremy Ellis<br><br>
