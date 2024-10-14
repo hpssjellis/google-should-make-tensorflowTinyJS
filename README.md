@@ -10,23 +10,10 @@ Fork this repo, fill in your markdown and <html> for the 15 slides (max 20 slide
  </video>
  </td></tr>
  </table>
-
-
-
 Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Seconds per Slide: <input type="text" id="myCountMax" size="6" value="20" >
-
 <div id="myNumSlides" style=" position:sticky; top:0px; left:20px; height:25px; "> ...</div> 
 
   
-
-
-
-
-
-
-
-
-
 <div id="myStick"  style=" position:sticky; top:30px; display:inline; ">
  
  <input type=button value="Start-No-Sound" onclick="{
