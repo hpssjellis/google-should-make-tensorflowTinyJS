@@ -203,16 +203,16 @@ other sensors and real actuators using microcontrollers trained in the browser
 
 <table border=1><tr><td>
  
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
+<li>Millions of microcontrollers</li>
+<li>ML at the Edge</li>
+<li>Solves bandwidth</li>
+<li>Low Energy</li>
+<li>Low Power</li>
+<li>Personal Solutions</li>
+<li>Low Cost $$</li>
 
 </td><td>
- Title <br>
+ Connecting MCU to Browser with webSerial <br>
  <video controls autoplay muted loop style="width:512px; height:288px;">
      <source src="media/vid/a03-compile-webserial.mp4" type="video/mp4">
  </video>
@@ -231,13 +231,19 @@ other sensors and real actuators using microcontrollers trained in the browser
 
 
 #### 4 
-### Microcontrollers
+### TinyMLjs Steps
 
 
 
 <table border=1><tr><td>
-
-
+<ol>
+<li>Install tf-Micro Arduino Library  "RocksettaTinyML"</li>
+<li>Compile and upload to mcu webSerial sensor code</li>
+<li>Generate Data</li>
+<li>Train ML Model in Browser</li>
+<li>Test ML model</li>
+<li>Export ML model</li>
+</ol>
 </td><td>
  Title <br>
  <video controls autoplay muted loop style="width:512px; height:288px;">
@@ -249,7 +255,7 @@ other sensors and real actuators using microcontrollers trained in the browser
 
 <details  class="myDetails" closed> <summary>Script</summary>
 
-While the world is buzzing about both cloud and client-side LLMs, one of the next phases is low-power, low-cost, specifically trained ML-capable microcontrollers that interact with the real world. The Seeedstudio thumb sized XIAO-esp32s3-sense, for example, has an onboard camera that can perform vision machine learning at about 7 FPS for just $14 USD. This kind of capability was unheard of even a few years ago at that price.
+
 
 </details>
 <hr>
