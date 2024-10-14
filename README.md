@@ -231,9 +231,9 @@ other sensors and real actuators using microcontrollers trained in the browser
 
 
 #### 4 
-### TinyMLjs Steps
+### TinyMLjs Steps (1 of 3)
 
-
+Explaining the videos on the right side of the page.
 
 <table border=1><tr><td>
 <ol>
@@ -245,7 +245,7 @@ other sensors and real actuators using microcontrollers trained in the browser
 <li>Export ML model</li>
 </ol>
 </td><td>
- Title <br>
+ Compile-upload to micrcontroller, check serial LED on/off <br>
  <video controls autoplay muted loop style="width:512px; height:288px;">
      <source src="media/vid/a04-close-arduino.mp4" type="video/mp4" >
  </video>
@@ -262,16 +262,19 @@ other sensors and real actuators using microcontrollers trained in the browser
 
 
 #### 5 
-### Not All Rosy
+###  TinyMLjs Steps (2 of 3)
 
 
 
 <table border=1><tr><td>
-Working with Microcontrollers has a lot of issues:
+<ol>
+<li>Install or online load Python</li>
+<li>TensorflowJS_converter from TFJS to c-header file</li>
+</ol>
 
 
 </td><td>
- Title <br>
+Connect the Microcontroller to the webpage using webSerial <br>
  <video controls autoplay muted loop style="width:512px; height:288px;">
      <source src="media/vid/a05-connect-webserial.mp4" type="video/mp4">
  </video>
@@ -282,23 +285,24 @@ Working with Microcontrollers has a lot of issues:
 
 <details  class="myDetails" closed> <summary>Script</summary>
 
-However, the reality isn’t so rosy—most training happens in the cloud, for which the costs can change, companies have limited time to solve issues, and new software versions often deprecate previous solutions.
-
 </details>
 <hr>
 
 
 
 #### 6
-### TensorflowJS
+###  TinyMLjs Steps (3 of 3)
 
 
 <table border=1><tr><td>
-TensorflowJS solves a lot of the issues microcontrollers have: 
-
-
+<ol>
+<li>RocksettaTinyML library examples Arduino Code</li>
+<li>Replace c-header file library</li>
+<li>Compile, upload and test in the serial monitor</li>
+<li>Can also test back in the browser</li>
+</ol>
 </td><td>
- Title <br>
+ Create motion x, y, z data <br>
  <video controls autoplay muted loop style="width:512px; height:288px;">
      <source src="media/vid/a06-data.mp4" type="video/mp4" >
  </video>
