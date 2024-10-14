@@ -319,7 +319,7 @@ Connect the Microcontroller to the webpage using webSerial <br>
   <li>Advanced: code compiled in the browser?</li>
 </ol>
 </td><td>
- Title <br>
+Train the model in the browser <br>
  <video controls autoplay muted loop style="width:512px; height:288px;">
      <source src="media/vid/a07-train.mp4" type="video/mp4">
  </video>
