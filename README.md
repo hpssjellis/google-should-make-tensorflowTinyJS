@@ -128,10 +128,7 @@ TensorflowJS with TfMicro in the web browser using WebSerial
 
 <table border=1> <col style="width:50%"><col style="width:50%"><tr><td>
 
-We all know that TensorflowJS makes amazing machine learning models
-in the browser using vision or sound but now with my TinyMLjs proof of concept
-we can start thinking about training other sensors and controlling real life actuators 
-using low cost microcontrollers doing ML at the edge and all of this trained in the browser.
+
 <ol>
   <li>TensorflowJS encredible web machine learning using vision and sound.</li>
   <li>TfLite / TfMicro / RTLite: ML training of low cost Edge Devices </li>
