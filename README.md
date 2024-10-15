@@ -429,7 +429,7 @@ Load Python and use the TensorflowJS_Converter <br>
 
 
 <details  class="myDetails" closed> <summary>Script</summary>
-Finally, we reach the ultimate goal: compiling microcontroller code directly in the browser. Following Atwood’s Law, any application that can be written in Java eventually will be. Do we even need a dedicated IDE anymore? Could all this be done from within the browser itself?
+Finally, we reach the ultimate goal: compiling microcontroller code directly in the browser. Following Atwood’s Law, any application that can be written in Javascript eventually will be. Do we even need a dedicated IDE anymore? Could all this be done from within the browser itself?
 
 </details>
 <hr>
