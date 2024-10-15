@@ -150,10 +150,10 @@ TensorflowJS with TfMicro in the web browser using WebSerial
 
 <details class="myDetails" closed> <summary>Script</summary>
 
-Today, we’ll explore the incredible potential of combining TensorflowJS with TfMicro and WebSerial. 
-TensorflowJS is so powerful when it comes to in-browser machine learning models for vision and sound. 
-But now, we are pushing the boundaries. Imagine this proof of concept using TinyMLjs training sensors and actuators in real-time—using low-cost microcontrollers—all within the browser. 
 
+Let's explore the exciting potential of combining TensorFlowJS with TfMicro using WebSerial. 
+We're familiar with TensorFlowJS for vision and sound models, but now let's push further. 
+This proof of concept uses TinyMLjs to train sensor-based ML models for actuators on low-cost microcontrollers—all within the browser!
 
 </details>
 <hr>
