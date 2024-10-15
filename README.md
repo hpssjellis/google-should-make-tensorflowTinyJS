@@ -134,8 +134,9 @@ we can start thinking about training other sensors and controlling real life act
 using low cost microcontrollers doing ML at the edge and all of this trained in the browser.
 <ol>
   <li>TensorflowJS encredible web machine learning using vision and sound.</li>
-  <li>TfLite / TfMicro / RTLite: ML train low cost Edge Devices </li>
-  <li>TinyMLjs Proof of concept</li>
+  <li>TfLite / TfMicro / RTLite: ML training of low cost Edge Devices </li>
+  <li>TinyMLjs proof of concept</li> 
+  <li>Google can combine TensorflowJS with Tensorflow Micro</li>
 </ol>
 
 <br>
