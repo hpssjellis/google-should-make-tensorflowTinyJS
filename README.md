@@ -163,7 +163,7 @@ Welcome everyone! Today, we’ll explore the incredible potential of combining T
 
 <table border=1> <col style="width:50%"><col style="width:50%"><tr><td>
  <ol>
-<li>client-side</li>
+<li>Client-side</li>
 <li>Secure and Private</li>
 <li>Easier for Education and Makers</li>
 <li>Community of Web Developers</li>
@@ -198,6 +198,7 @@ Why choose TensorflowJS for this approach? First, it's client-side, which means 
 <li>Low Power</li>
 <li>Personal Solutions</li>
 <li>Low Cost $</li>
+<li>Right to Repair</li>
 </ol>
 </td><td>
  Connecting MCU to Browser with webSerial <br>
@@ -212,7 +213,7 @@ Why choose TensorflowJS for this approach? First, it's client-side, which means 
 <details  class="myDetails" closed> <summary>Script</summary>
 
 
-And why TfMicro? The ability to run machine learning on millions of microcontrollers brings ML to the edge. It solves common bandwidth problems by processing data locally, with minimal energy consumption. These microcontrollers offer low-power, affordable solutions—making this approach accessible for personal projects as well as commercial applications.
+And why TfMicro? The ability to run machine learning on millions of microcontrollers brings ML to the edge. It solves common bandwidth problems by processing data locally, with minimal energy consumption. These microcontrollers offer low-power, affordable solutions—making this approach accessible for personal projects as well as commercial applications. Our "Right to Repair" allows us easy ways to reuse, repair and restore these products.
 
 </details>
 <hr>
