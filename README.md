@@ -152,10 +152,10 @@ using low cost microcontrollers doing ML at the edge and all of this trained in 
 
 <details class="myDetails" closed> <summary>Script</summary>
 
-Welcome everyone! Today, we’ll explore the incredible potential of combining TensorflowJS with TfMicro and WebSerial. 
-You may already know how powerful TensorflowJS is when it comes to in-browser machine learning models for vision and sound. 
-But now, we are pushing the boundaries. Imagine this proof of concept using TinyMLjs  training sensors and actuators in real-time—using low-cost microcontrollers—all within the browser. 
-Let’s dive into this exciting shift in edge computing!
+Today, we’ll explore the incredible potential of combining TensorflowJS with TfMicro and WebSerial. 
+TensorflowJS is so powerful when it comes to in-browser machine learning models for vision and sound. 
+But now, we are pushing the boundaries. Imagine this proof of concept using TinyMLjs training sensors and actuators in real-time—using low-cost microcontrollers—all within the browser. 
+
 
 </details>
 <hr>
@@ -217,7 +217,10 @@ Why choose TensorflowJS for this approach? First, it's client-side, which means 
 <details  class="myDetails" closed> <summary>Script</summary>
 
 
-And why TfMicro? The ability to run machine learning on millions of microcontrollers brings ML to the edge. It solves common bandwidth problems by processing data locally, with minimal energy consumption. These microcontrollers offer low-power, affordable solutions—making this approach accessible for personal projects as well as commercial applications. Our "Right to Repair" allows us easy ways to reuse, repair and restore these products.
+And why TfMicro? The ability to run machine learning on millions of microcontrollers brings ML to the edge. 
+It solves common bandwidth problems by processing data locally, with minimal energy consumption. 
+These microcontrollers offer low-power, affordable solutions—making this approach accessible for personal projects as well as commercial applications. 
+Our "Right to Repair" allows us easy ways to reuse, repair and restore these products.
 
 </details>
 <hr>
@@ -511,8 +514,8 @@ Imagine millions of web developers having the ability to adapt machine learning 
 
 <details  class="myDetails" closed> <summary>Script</summary>
 
-Jeremy Ellis has been a technology teacher for about 35 years. In the 1990's he was making 3 layer, 8 node, neural networks and manually adjusting the weights. Nothing really worked. 
-In 2015 Tensorflow made everything easier. By 2019 he was an expert in browser based TensorflowJS. Then he switched to physical microcontrollers. By 2024 he had become an expert at ML models on the Arduino Pro and the Seeedstudio Esp32. 
+Jeremy Ellis has been a technology teacher for over 30 years. In the 1990's he was making 3 layer, 8 node, neural networks and manually adjusting the weights. Nothing really worked. 
+In 2015 Tensorflow made everything easier. By 2019 he was an expert at TensorflowJS. Then he switched to physical mcu's. By 2024 he had become an expert at ML models on microcontrollers. 
 
 </details>
 <hr>
@@ -542,9 +545,10 @@ Replace the c-header file compile and test in the serial monitor <br>
 
 <details  class="myDetails" closed> <summary>Script</summary>
 
-We’re nearly there. TinyMLjs has shown that browser-based machine learning works, and it’s capable of training models that can then be converted and deployed to microcontrollers. This opens the door to countless possibilities.
+TinyMLjs has shown that browser-based machine learning works, and it’s capable of training models that can then be converted and deployed onto microcontrollers. 
 
-I have a proof of concept that TensorFlowJS can be used to train the multitude of low-power, low-cost microcontrollers, giving power, privacy, freedom, and stability to everyone in this fast-changing world of microcontroller cloud costs and unstable software. Let’s be a part of using the greatest combination of Google frameworks: TensorFlowJS with TensorFlowMicro. As MCU become more common our right to repair in a simplified way becomes more important.
+TensorFlowJS can be used to train a multitude of low-power, low-cost microcontrollers, giving power, privacy, freedom, and stability to everyone in this fast-changing world of microcontroller cloud costs and unstable software. 
+Let’s be a part of using the greatest combination of Google frameworks: TensorFlowJS with TensorFlowMicro. 
 
 </details>
 <hr>
@@ -575,7 +579,7 @@ The ML serial output can be tested in the browser <br>
 <details  class="myDetails" closed> <summary>Script</summary>
 
 
-In conclusion, let’s work together to make rtLite (Tf-Micro) and TensorflowJS function seamlessly in the browser. 
+In conclusion, let’s work together to make Tf-Micro and TensorflowJS function seamlessly in the browser. 
 With the strength of the community, interest by Google, the future of machine learning at the edge is bright and full of possibilities making it accessible and practical for a wide range of people and applications. 
 While there are challenges, the benefits of local execution, data security, Javascript simpicity and offline capability make it a compelling endeavor. 
 
