@@ -132,7 +132,11 @@ We all know that TensorflowJS makes amazing machine learning models
 in the browser using vision or sound but now with my TinyMLjs proof of concept
 we can start thinking about training other sensors and controlling real life actuators 
 using low cost microcontrollers doing ML at the edge and all of this trained in the browser.
- 
+<ol>
+  <li>TensorflowJS encredible web machine learning using vision and sound.</li>
+  <li>TfLite / TfMicro / RTLite: ML train low cost Edge Devices </li>
+  <li>TinyMLjs Proof of concept</li>
+</ol>
 
 <br>
 
@@ -148,7 +152,7 @@ using low cost microcontrollers doing ML at the edge and all of this trained in 
 
 <details class="myDetails" closed> <summary>Script</summary>
 
-Welcome everyone! Today, we’ll explore the incredible potential of combining TensorflowJS with TfMicro and WebSerial. You may already know how powerful TensorflowJS is when it comes to in-browser machine learning models for vision and sound. But now, we are pushing the boundaries. Imagine training sensors and actuators in real-time—using low-cost microcontrollers—all within the browser. Let’s dive into this exciting shift in edge computing!
+Welcome everyone! Today, we’ll explore the incredible potential of combining TensorflowJS with TfMicro and WebSerial. You may already know how powerful TensorflowJS is when it comes to in-browser machine learning models for vision and sound. But now, we are pushing the boundaries. Imagine this proof of concept TinyMLjs  training sensors and actuators in real-time—using low-cost microcontrollers—all within the browser. Let’s dive into this exciting shift in edge computing!
 
 </details>
 <hr>
@@ -165,7 +169,7 @@ Welcome everyone! Today, we’ll explore the incredible potential of combining T
 <li>Community of Web Developers</li>
 <li>Total Control</li>
 <li>Version Control</li>
- </ol>ol>
+ </ol>
 </td><td>
  Install Arduino IDE Library rocksettaTinyML a verison of TfMicro<br>
  <video controls autoplay muted loop style="width:512px; height:288px;">
