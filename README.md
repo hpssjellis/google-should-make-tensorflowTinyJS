@@ -369,7 +369,7 @@ Now, why do we need support from the Web Developers, Maker Community and Google?
 
 </details> 
 
-<br><br><br><br><br><br>
+<br><br><br><br><br>
 
 <hr>
 
@@ -404,7 +404,7 @@ After training the model test it in the browser <br>
 For WebSerial and TensorflowJS_Converter to reach their full potential, they need to be stable on Android. Additionally, a lightweight version of TensorflowJS_Converter written in Javascript would make generating C-header files much easier for developers.
 </details> 
 
-<br><br><br><br><br><br>
+<br><br><br><br>
 
 <hr>
 
@@ -440,7 +440,7 @@ The ESP tool already allows us to flash code directly from the browser for the E
 
 </details> 
 
-<br><br><br><br><br><br>
+<br><br><br>
 
 <hr>
 
@@ -473,7 +473,7 @@ Finally, we reach the ultimate goal: compiling microcontroller code directly in 
 
 </details> 
 
-<br><br><br><br><br><br>
+<br><br>
 
 <hr>
 
