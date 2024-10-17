@@ -124,7 +124,8 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Se
 
 #### 1 
 ### Exciting times for WebAI!
-TensorflowJS with TfMicro in the web browser using WebSerial
+TensorflowJS with TfMicro in the web browser using WebSerial<br>
+Arduino Nano33BleSense Demo <a href="https://hpssjellis.github.io/tinyMLjs/public/acceleration/a00-best-acceleration.html"> here</a>
 
 <table border=1> <col style="width:50%"><col style="width:50%"><tr><td>
 
